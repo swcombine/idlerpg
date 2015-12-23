@@ -1,3 +1,6 @@
 .irpg.conf
 irpg.db
 questinfo.txt
+modifiers.txt
+config.php
+SW_items.txt
