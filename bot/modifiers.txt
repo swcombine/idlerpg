@@ -1,0 +1,988 @@
+[11/26/15 10:24:00] Selatos [1/8] has challenged Superman [0/1] in combat and won! 0 days, 00:01:16 is removed from Selatos's clock.
+[11/26/15 11:00:53] Superman [3/14] has challenged IdleRPG [4/15] in combat and lost! 0 days, 00:01:48 is added to Superman's clock.
+[11/26/15 11:26:19] Selatos [23/31] has challenged Superman [4/20] in combat and won! 0 days, 00:01:58 is removed from Selatos's clock.
+[11/26/15 11:29:29] Addison [0/4] has challenged IdleRPG [19/30] in combat and lost! 0 days, 00:01:33 is added to Addison's clock.
+[11/26/15 11:52:37] Selatos [27/45] has challenged Addison [7/10] in combat and won! 0 days, 00:02:17 is removed from Selatos's clock.
+[11/26/15 12:04:48] Addison [3/15] has challenged IdleRPG [21/42] in combat and lost! 0 days, 00:02:06 is added to Addison's clock.
+[11/26/15 13:45:18] Selatos [45/73] has challenged Addison [10/38] in combat and won! 0 days, 00:03:34 is removed from Selatos's clock.
+[11/26/15 14:32:56] Selatos [80/83] has challenged Addison [9/63] in combat and won! 0 days, 00:04:09 is removed from Selatos's clock.
+[11/26/15 15:21:38] Sigmund [0/1] has challenged Selatos [18/83] in combat and lost! 0 days, 00:00:48 is added to Sigmund's clock.
+[11/26/15 15:34:04] Sigmund [0/4] has challenged IdleRPG [41/89] in combat and lost! 0 days, 00:01:20 is added to Sigmund's clock.
+[11/26/15 16:01:38] Flint_Talzo [0/4] has challenged IdleRPG [69/89] in combat and lost! 0 days, 00:01:20 is added to Flint_Talzo's clock.
+[11/26/15 16:04:29] Sigmund [4/11] has challenged Selatos [54/96] in combat and lost! 0 days, 00:01:16 is added to Sigmund's clock.
+[11/26/15 16:06:39] Addison [17/66] has challenged Superman [13/72] in combat and won! 0 days, 00:04:09 is removed from Addison's clock.
+[11/26/15 16:32:03] Flint_Talzo [1/14] has challenged Sigmund [3/12] in combat and lost! 0 days, 00:01:16 is added to Flint_Talzo's clock.
+[11/26/15 16:37:00] Selatos [84/119] has challenged Addison [64/66] in combat and won! 0 days, 00:05:35 is removed from Selatos's clock.
+[11/26/15 16:44:55] Sigmund [16/21] has challenged IdleRPG [67/110] in combat and lost! 0 days, 00:02:26 is added to Sigmund's clock.
+[11/26/15 17:01:51] Addison [55/77] has challenged Iven_Trall [9/11] in combat and won! 0 days, 00:04:49 is removed from Addison's clock.
+[11/26/15 17:28:50] Superman [71/103] has challenged Addison [75/77] in combat and lost! 0 days, 00:05:35 is added to Superman's clock.
+[11/26/15 18:05:04] Flint_Talzo [0/42] has challenged Selatos [86/130] in combat and lost! 0 days, 00:02:17 is added to Flint_Talzo's clock.
+[11/26/15 18:12:47] Sigmund [5/36] has challenged Selatos [84/130] in combat and lost! 0 days, 00:02:39 is added to Sigmund's clock.
+[11/26/15 18:19:36] Mabbs [0/1] has challenged Superman [17/103] in combat and lost! 0 days, 00:00:48 is added to Mabbs's clock.
+[11/26/15 18:45:24] Iven_Trall used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:01:04 towards level 9.
+[11/26/15 18:53:28] Sigmund [38/51] has challenged Flint_Talzo [5/42] in combat and won! 0 days, 00:03:05 is removed from Sigmund's clock.
+[11/26/15 18:58:23] Aria_T`Dashi [2/3] has challenged Selatos [111/130] in combat and lost! 0 days, 00:00:56 is added to Aria_T`Dashi's clock.
+[11/26/15 19:01:08] Mabbs [2/7] has challenged Flint_Talzo [9/52] in combat and lost! 0 days, 00:01:16 is added to Mabbs's clock.
+[11/26/15 19:12:48] Aria_T`Dashi [0/6] has challenged Mabbs [3/7] in combat and lost! 0 days, 00:01:05 is added to Aria_T`Dashi's clock.
+[11/26/15 19:33:05] Iven_Trall [0/45] has challenged Mabbs [13/15] in combat and lost! 0 days, 00:03:05 is added to Iven_Trall's clock.
+[11/26/15 19:41:33] Mabbs [19/25] has challenged Addison [89/102] in combat and lost! 0 days, 00:01:42 is added to Mabbs's clock.
+[11/26/15 20:08:39] Aria_T`Dashi [18/29] has challenged IdleRPG [98/129] in combat and lost! 0 days, 00:02:26 is added to Aria_T`Dashi's clock.
+[11/26/15 21:46:39] Mabbs [0/57] has challenged Sigmund [45/69] in combat and lost! 0 days, 00:03:05 is added to Mabbs's clock.
+[11/26/15 21:59:09] Kay_Dallben [0/0] has challenged Addison [111/119] in combat and lost! 0 days, 00:00:48 is added to Kay_Dallben's clock.
+[11/26/15 22:14:27] Superman [12/129] has challenged Selatos [19/148] in combat and lost! 0 days, 00:08:43 is added to Superman's clock.
+[11/26/15 22:20:29] Sigmund floated away with the garbage! This lucky event has accelerated them 0 days, 00:01:04 towards level 14.
+[11/26/15 22:32:51] Sigmund [62/87] has challenged Mabbs [41/57] in combat and won! 0 days, 00:05:35 is removed from Sigmund's clock.
+[11/26/15 22:46:10] Darth_Sigyn [0/0] has challenged Flint_Talzo [72/93] in combat and lost! 0 days, 00:00:48 is added to Darth_Sigyn's clock.
+[11/26/15 22:58:36] Darth_Sigyn [0/3] has challenged Selatos [102/148] in combat and lost! 0 days, 00:00:56 is added to Darth_Sigyn's clock.
+[11/26/15 22:59:00] Vip_Fortuna [2/4] has challenged Selatos [67/148] in combat and lost! 0 days, 00:00:56 is added to Vip_Fortuna's clock.
+[11/26/15 23:05:55] Selatos, Vip_Fortuna, and Darth_Sigyn [67/155] have team battled Sigmund, Superman, and Kay_Dallben [65/232] and won! 0 days, 00:01:25 is removed from their clocks.
+[11/26/15 23:14:41] Selatos [38/160] has challenged Sigmund [14/87] in combat and won! 0 days, 00:10:07 is removed from Selatos's clock.
+[11/26/15 23:23:36] Kay_Dallben [19/20] has challenged Darth_Sigyn [4/7] in combat and won! 0 days, 00:01:42 is removed from Kay_Dallben's clock.
+[11/26/15 23:47:08] Sigmund [77/94] has challenged Darth_Sigyn [2/16] in combat and won! 0 days, 00:06:29 is removed from Sigmund's clock.
+[11/27/15 00:47:21] Kay_Dallben [14/40] has challenged IdleRPG [107/147] in combat and lost! 0 days, 00:03:48 is added to Kay_Dallben's clock.
+[11/27/15 01:13:20] Sigmund [13/94] has challenged Darth_Sigyn [2/26] in combat and won! 0 days, 00:07:31 is removed from Sigmund's clock.
+[11/27/15 01:29:37] Yen_Angavel [1/4] has challenged Selatos [36/160] in combat and lost! 0 days, 00:00:56 is added to Yen_Angavel's clock.
+[11/27/15 01:59:38] Yen_Angavel [12/14] has challenged Superman [31/132] in combat and lost! 0 days, 00:01:16 is added to Yen_Angavel's clock.
+[11/27/15 02:09:48] Darth_Sigyn [18/47] has challenged Superman [100/132] in combat and lost! 0 days, 00:03:05 is added to Darth_Sigyn's clock.
+[11/27/15 02:40:01] Yen_Angavel [19/27] has challenged Sigmund [78/94] in combat and lost! 0 days, 00:01:42 is added to Yen_Angavel's clock.
+[11/27/15 02:52:30] Superman [33/141] has challenged Selatos [135/160] in combat and lost! 0 days, 00:11:44 is added to Superman's clock.
+[11/27/15 02:53:18] Sigmund [13/107] has challenged Mabbs [34/135] in combat and lost! 0 days, 00:08:43 is added to Sigmund's clock.
+[11/27/15 03:15:17] Addison [65/147] has challenged Flint_Talzo [6/122] in combat and won! 0 days, 00:11:44 is removed from Addison's clock.
+[11/27/15 03:48:12] Darth_Sigyn [35/63] has challenged Yen_Angavel [31/38] in combat and won! 0 days, 00:04:09 is removed from Darth_Sigyn's clock.
+[11/27/15 04:07:09] Yen_Angavel [3/38] has challenged Sigmund [77/107] in combat and lost! 0 days, 00:02:39 is added to Yen_Angavel's clock.
+[11/27/15 04:43:26] Darth_Sigyn [60/72] has challenged Chloe [0/1] in combat and won! 0 days, 00:04:49 is removed from Darth_Sigyn's clock.
+[11/27/15 04:52:33] Chloe [0/3] has challenged Sigmund [43/107] in combat and lost! 0 days, 00:00:56 is added to Chloe's clock.
+[11/27/15 05:34:04] Walter [0/0] has challenged Selatos [49/168] in combat and lost! 0 days, 00:00:48 is added to Walter's clock.
+[11/27/15 05:47:29] Darth_Sigyn [49/90] has challenged Sigmund [91/119] in combat and lost! 0 days, 00:05:35 is added to Darth_Sigyn's clock.
+[11/27/15 06:54:51] Walter [13/19] has challenged Addison [116/132] in combat and lost! 0 days, 00:01:42 is added to Walter's clock.
+[11/27/15 07:12:56] Darth_Sigyn [2/96] has challenged Superman [29/146] in combat and lost! 0 days, 00:06:29 is added to Darth_Sigyn's clock.
+[11/27/15 07:27:06] Chloe [18/37] has challenged Flint_Talzo [24/172] in combat and lost! 0 days, 00:02:39 is added to Chloe's clock.
+[11/27/15 07:31:19] Sigmund [6/119] has challenged Walter [13/27] in combat and lost! 0 days, 00:11:44 is added to Sigmund's clock.
+[11/27/15 07:34:56] Iven_Trall [69/82] has challenged Sigmund [40/119] in combat and won! 0 days, 00:04:49 is removed from Iven_Trall's clock.
+[11/27/15 08:47:43] Khaos [0/4] has challenged Aria_T`Dashi [132/150] in combat and lost! 0 days, 00:00:56 is added to Khaos's clock.
+[11/27/15 09:02:06] Khaos [4/8] has challenged Selatos [152/185] in combat and lost! 0 days, 00:01:05 is added to Khaos's clock.
+[11/27/15 09:11:19] Syrialus_Dantere [1/2] has challenged Aria_T`Dashi [101/150] in combat and lost! 0 days, 00:00:56 is added to Syrialus_Dantere's clock.
+[11/27/15 09:11:52] Raven_Ark [0/1] has challenged Chloe [10/60] in combat and lost! 0 days, 00:00:48 is added to Raven_Ark's clock.
+[11/27/15 09:43:05] Chloe [20/68] has challenged Iven_Trall [6/83] in combat and won! 0 days, 00:04:09 is removed from Chloe's clock.
+[11/27/15 10:30:49] Sigmund [42/137] has challenged Darth_Sigyn [63/111] in combat and lost! 0 days, 00:13:37 is added to Sigmund's clock.
+[11/27/15 10:44:48] Syrialus_Dantere [4/35] has challenged Walter [34/55] in combat and lost! 0 days, 00:01:58 is added to Syrialus_Dantere's clock.
+[11/27/15 10:51:37] Tine [0/0] has challenged Chloe [8/77] in combat and lost! 0 days, 00:00:48 is added to Tine's clock.
+[11/27/15 11:27:20] Vip_Fortuna [10/52] has challenged Iven_Trall [57/104] in combat and lost! 0 days, 00:03:05 is added to Vip_Fortuna's clock.
+[11/27/15 11:31:33] Iven_Trall [33/114] has challenged Raven_Ark [9/25] in combat and won! 0 days, 00:07:31 is removed from Iven_Trall's clock.
+[11/27/15 11:34:39] Walter [21/62] has challenged Syrialus_Dantere [4/47] in combat and won! 0 days, 00:04:49 is removed from Walter's clock.
+[11/27/15 12:45:43] Khaos [44/47] has challenged Aria_T`Dashi [152/154] in combat and lost! 0 days, 00:02:17 is added to Khaos's clock.
+[11/27/15 12:52:23] Superman [162/167] has challenged Aria_T`Dashi [16/154] in combat and won! 0 days, 00:18:19 is removed from Superman's clock.
+[11/27/15 13:04:54] Tine [22/45] has challenged Vip_Fortuna [18/52] in combat and won! 0 days, 00:02:17 is removed from Tine's clock.
+[11/27/15 14:35:02] Kay_Dallben [47/64] has challenged Sigmund [116/150] in combat and lost! 0 days, 00:03:34 is added to Kay_Dallben's clock.
+[11/27/15 14:39:42] Chloe [46/103] has challenged Kay_Dallben [11/64] in combat and won! 0 days, 00:07:31 is removed from Chloe's clock.
+[11/27/15 14:42:21] Flint_Talzo [90/210] has challenged Raven_Ark [46/74] in combat and won! 0 days, 00:15:48 is removed from Flint_Talzo's clock.
+[11/27/15 14:53:40] Raven_Ark [53/84] has challenged IdleRPG [104/192] in combat and lost! 0 days, 00:05:56 is added to Raven_Ark's clock.
+[11/27/15 14:57:35] Tine [54/74] has challenged Aria_T`Dashi [114/169] in combat and lost! 0 days, 00:03:34 is added to Tine's clock.
+[11/27/15 16:55:57] Superman [152/168] has challenged Kay_Dallben [82/94] in combat and won! 0 days, 00:21:15 is removed from Superman's clock.
+[11/27/15 17:09:47] Aria_T`Dashi [152/181] has challenged Darth_Sigyn [31/133] in combat and won! 0 days, 00:15:48 is removed from Aria_T`Dashi's clock.
+[11/27/15 17:13:33] Addison [77/160] has challenged Flint_Talzo [4/210] in combat and won! 0 days, 00:21:15 is removed from Addison's clock.
+[11/27/15 17:50:52] Selatos and Flint_Talzo have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 8% of the time to their next level.
+[11/27/15 17:56:37] Darth_Sigyn [80/133] has challenged Aria_T`Dashi [155/181] in combat and lost! 0 days, 00:13:37 is added to Darth_Sigyn's clock.
+[11/27/15 18:00:35] Tine [15/95] has challenged Flint_Talzo [183/210] in combat and lost! 0 days, 00:05:35 is added to Tine's clock.
+[11/27/15 19:23:23] Walter [13/109] has challenged Superman [90/168] in combat and lost! 0 days, 00:10:07 is added to Walter's clock.
+[11/27/15 19:26:02] Tine [45/97] has challenged Vip_Fortuna [62/125] in combat and lost! 0 days, 00:06:29 is added to Tine's clock.
+[11/27/15 19:54:00] Vip_Fortuna [127/129] has challenged Walter [70/109] in combat and won! 0 days, 00:08:43 is removed from Vip_Fortuna's clock.
+[11/27/15 20:11:22] Kay_Dallben found those were not the droids they were looking for. This terrible calamity has slowed them 0 days, 00:04:48 from level 16.
+[11/27/15 20:49:01] Chloe [122/132] has challenged Vip_Fortuna [101/129] in combat and won! 0 days, 00:11:44 is removed from Chloe's clock.
+[11/27/15 21:05:12] Tine [10/97] has challenged Aria_T`Dashi [168/188] in combat and lost! 0 days, 00:07:31 is added to Tine's clock.
+[11/27/15 21:38:29] Superman [35/199] has challenged Iven_Trall [50/135] in combat and lost! 0 days, 00:24:39 is added to Superman's clock.
+[11/27/15 21:49:58] Vip_Fortuna [112/129] has challenged Aria_T`Dashi [8/188] in combat and won! 0 days, 00:10:07 is removed from Vip_Fortuna's clock.
+[11/28/15 00:34:25] Tyris [0/1] has challenged Selatos [147/218] in combat and lost! 0 days, 00:00:48 is added to Tyris's clock.
+[11/28/15 00:56:52] Walter [19/110] has challenged Syrialus_Dantere [11/104] in combat and won! 0 days, 00:13:37 is removed from Walter's clock.
+[11/28/15 01:10:36] Darth_Sigyn [137/159] has challenged IdleRPG [37/203] in combat and won! 0 days, 00:52:22 is removed from Darth_Sigyn's clock.
+[11/28/15 01:29:51] Draelor [0/3] has challenged Iven_Trall [23/166] in combat and lost! 0 days, 00:00:56 is added to Draelor's clock.
+[11/28/15 01:34:03] Tyris [8/16] has challenged IdleRPG [85/203] in combat and lost! 0 days, 00:02:06 is added to Tyris's clock.
+[11/28/15 01:59:52] Draelor [3/11] has challenged Iven_Trall [128/166] in combat and lost! 0 days, 00:01:16 is added to Draelor's clock.
+[11/28/15 02:21:33] Selatos [79/220] has challenged IdleRPG [151/203] in combat and lost! 0 days, 00:40:52 is added to Selatos's clock.
+[11/28/15 02:39:41] Chloe [9/150] has challenged Tine [39/129] in combat and lost! 0 days, 00:15:48 is added to Chloe's clock.
+[11/28/15 03:04:38] Draelor [20/25] has challenged Sigmund [36/181] in combat and lost! 0 days, 00:01:58 is added to Draelor's clock.
+[11/28/15 03:13:03] Kay_Dallben [102/142] has challenged Superman [101/199] in combat and won! 0 days, 00:11:44 is removed from Kay_Dallben's clock.
+[11/28/15 03:13:57] Aria_T`Dashi invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 00:10:17 towards level 24.
+[11/28/15 03:15:42] Syrialus_Dantere [72/117] has challenged Selatos [106/220] in combat and lost! 0 days, 00:10:07 is added to Syrialus_Dantere's clock.
+[11/28/15 03:48:25] Addison [82/170] has challenged Flint_Talzo [199/222] in combat and lost! 0 days, 00:28:36 is added to Addison's clock.
+[11/28/15 03:55:29] Superman [124/213] has challenged Iven_Trall [62/170] in combat and won! 0 days, 00:28:36 is removed from Superman's clock.
+[11/28/15 04:07:40] Draelor [36/41] has challenged Chloe [42/150] in combat and lost! 0 days, 00:02:39 is added to Draelor's clock.
+[11/28/15 04:19:12] Chloe purchased some prime Tatooine real estate! This lucky event has accelerated them 0 days, 00:12:47 towards level 22.
+[11/28/15 04:27:36] Kyle [0/1] has challenged Kay_Dallben [41/142] in combat and lost! 0 days, 00:00:48 is added to Kyle's clock.
+[11/28/15 04:40:00] Kyle [1/4] has challenged Kay_Dallben [137/142] in combat and lost! 0 days, 00:00:56 is added to Kyle's clock.
+[11/28/15 04:40:06] Darth_Sigyn [42/159] has challenged Flint_Talzo [144/247] in combat and lost! 0 days, 00:21:15 is added to Darth_Sigyn's clock.
+[11/28/15 04:48:22] Draelor [26/46] has challenged Kyle [1/4] in combat and won! 0 days, 00:03:05 is removed from Draelor's clock.
+[11/28/15 05:10:03] Kyle [5/11] has challenged Darth_Sigyn [87/159] in combat and lost! 0 days, 00:01:16 is added to Kyle's clock.
+[11/28/15 05:44:49] Darth_Sigyn floated away with the garbage! This lucky event has accelerated them 0 days, 00:13:01 towards level 24.
+[11/28/15 05:55:06] Aria_T`Dashi [34/240] has challenged Kyle [7/18] in combat and won! 0 days, 00:24:39 is removed from Aria_T`Dashi's clock.
+[11/28/15 06:19:18] Khaos [31/51] has challenged Tine [65/151] in combat and lost! 0 days, 00:03:05 is added to Khaos's clock.
+[11/28/15 06:28:26] Chloe [141/153] has challenged Tine [41/151] in combat and won! 0 days, 00:18:19 is removed from Chloe's clock.
+[11/28/15 07:07:49] Khaos [51/55] has challenged Draelor [40/72] in combat and won! 0 days, 00:03:34 is removed from Khaos's clock.
+[11/28/15 07:38:14] The fabric of the world shudders as the Force grows in Iven_Trall, bringing them 0 days, 01:05:18 closer to level 23.
+[11/28/15 07:45:23] Raven_Ark [23/96] has challenged Walter [55/110] in combat and lost! 0 days, 00:04:49 is added to Raven_Ark's clock.
+[11/28/15 07:59:46] Raven_Ark [87/96] has come upon Iven_Trall [21/184] and taken them in combat! 0 days, 00:04:09 is removed from Raven_Ark's clock.
+[11/28/15 08:17:40] Kyle [53/60] has challenged Syrialus_Dantere [113/140] in combat and lost! 0 days, 00:03:05 is added to Kyle's clock.
+[11/28/15 08:54:49] Khaos [40/78] has challenged Darth_Sigyn [26/159] in combat and won! 0 days, 00:04:49 is removed from Khaos's clock.
+[11/28/15 09:02:47] Sigmund [197/216] has challenged Darth_Sigyn [61/159] in combat and won! 0 days, 00:28:36 is removed from Sigmund's clock.
+[11/28/15 09:51:11] Selatos [227/236] has challenged Iven_Trall [151/184] in combat and won! 0 days, 00:33:11 is removed from Selatos's clock.
+[11/28/15 09:57:00] Iven_Trall [24/184] has challenged Chloe [16/153] in combat and won! 0 days, 00:21:15 is removed from Iven_Trall's clock.
+[11/28/15 10:15:39] Superman [59/243] has challenged Walter [67/110] in combat and lost! 0 days, 00:33:11 is added to Superman's clock.
+[11/28/15 10:31:59] Chloe [66/158] has challenged Khaos [12/86] in combat and won! 0 days, 00:21:15 is removed from Chloe's clock.
+[11/28/15 11:05:45] Addison [90/170] has challenged Syrialus_Dantere [127/141] in combat and lost! 0 days, 00:33:11 is added to Addison's clock.
+[11/28/15 11:18:44] Khaos [25/105] has challenged Walter [40/110] in combat and lost! 0 days, 00:06:29 is added to Khaos's clock.
+[11/28/15 11:22:50] Aria_T`Dashi [36/295] has challenged Superman [47/243] in combat and lost! 0 days, 00:28:36 is added to Aria_T`Dashi's clock.
+[11/28/15 11:44:59] Syrialus_Dantere installed a couple of secret compartments on their ship. Someone call a scanning crew!
+[11/28/15 12:05:28] Walter [10/113] has challenged Selatos [13/236] in combat and lost! 0 days, 00:21:15 is added to Walter's clock.
+[11/28/15 12:36:41] Vip_Fortuna [98/167] has challenged Darth_Sigyn [61/177] in combat and won! 0 days, 00:13:37 is removed from Vip_Fortuna's clock.
+[11/28/15 12:49:25] Kay_Dallben [63/166] has challenged Aria_T`Dashi [195/295] in combat and lost! 0 days, 00:18:19 is added to Kay_Dallben's clock.
+[11/28/15 13:08:48] Draelor [94/96] has challenged Aria_T`Dashi [106/295] in combat and lost! 0 days, 00:08:43 is added to Draelor's clock.
+[11/28/15 13:26:24] Saedrial [0/3] has challenged Raven_Ark [31/128] in combat and lost! 0 days, 00:00:56 is added to Saedrial's clock.
+[11/28/15 13:40:47] Saedrial [3/4] has challenged Tyris [17/36] in combat and lost! 0 days, 00:01:05 is added to Saedrial's clock.
+[11/28/15 14:15:36] Saedrial [8/9] has challenged Selatos [160/236] in combat and lost! 0 days, 00:01:28 is added to Saedrial's clock.
+[11/28/15 14:31:25] Superman hired a durosian second pilot! This lucky event has accelerated them 0 days, 00:17:36 towards level 27.
+[11/28/15 14:35:41] Flint_Talzo mishandled a piece of sensitive equipment, nearly blowing themselves up!
+[11/28/15 14:39:32] Iven_Trall [174/191] has challenged Tyris [1/45] in combat and won! 0 days, 00:24:39 is removed from Iven_Trall's clock.
+[11/28/15 14:52:39] Iven_Trall and Selatos have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 12% of the time to their next level.
+[11/28/15 14:56:40] Flint_Talzo [119/248] has challenged Iven_Trall [53/191] in combat and won! 0 days, 00:28:36 is removed from Flint_Talzo's clock.
+[11/28/15 15:02:28] Saedrial [13/18] has challenged Sigmund [125/216] in combat and lost! 0 days, 00:01:58 is added to Saedrial's clock.
+[11/28/15 15:22:11] Draelor [103/120] has challenged Selatos [109/236] in combat and lost! 0 days, 00:10:07 is added to Draelor's clock.
+[11/28/15 15:22:56] Sigmund [60/248] has challenged Selatos [101/236] in combat and lost! 0 days, 00:33:11 is added to Sigmund's clock.
+[11/28/15 15:36:33] The struggle between the Light and the Dark is too much for Kay_Dallben! They break down in agony for 0 days, 00:54:16 losing sense of time.
+[11/28/15 15:44:28] Darth_Sigyn [20/223] has challenged IdleRPG [79/270] in combat and lost! 0 days, 00:40:52 is added to Darth_Sigyn's clock.
+[11/28/15 16:11:37] Tyris's shield got supercharged by a stray bolt of lightning!
+[11/28/15 16:54:28] Raven_Ark [80/129] has challenged Draelor [73/120] in combat and won! 0 days, 00:10:07 is removed from Raven_Ark's clock.
+[11/28/15 16:55:25] Selatos [71/236] has challenged IdleRPG [56/270] in combat and won! 0 days, 01:50:00 is removed from Selatos's clock.
+[11/28/15 17:39:32] Tine [121/166] has challenged Saedrial [9/36] in combat and won! 0 days, 00:21:15 is removed from Tine's clock.
+[11/28/15 18:14:44] Darth_Sigyn got their midi-chlorians measured! This lucky event has accelerated them 0 days, 00:32:55 towards level 26.
+[11/28/15 18:22:24] Tyris [1/63] has challenged IdleRPG [50/270] in combat and lost! 0 days, 00:07:59 is added to Tyris's clock.
+[11/28/15 18:25:24] Superman [199/264] has challenged Sigmund [46/248] in combat and won! 0 days, 00:38:30 is removed from Superman's clock.
+[11/28/15 18:54:24] Aria_T`Dashi [220/295] has challenged IdleRPG [108/270] in combat and won! 0 days, 01:34:49 is removed from Aria_T`Dashi's clock.
+[11/28/15 19:04:01] Ichiru [5/18] has challenged Khaos [44/140] in combat and lost! 0 days, 00:01:28 is added to Ichiru's clock.
+[11/28/15 19:18:10] Saedrial [10/49] has challenged Selatos [136/236] in combat and lost! 0 days, 00:04:49 is added to Saedrial's clock.
+[11/28/15 19:23:26] Vip_Fortuna [175/194] has challenged Saedrial [14/49] in combat and won! 0 days, 00:18:19 is removed from Vip_Fortuna's clock.
+[11/28/15 19:50:50] Ichiru [25/28] has challenged Iven_Trall [157/191] in combat and lost! 0 days, 00:01:58 is added to Ichiru's clock.
+[11/28/15 20:21:03] Ichiru [6/39] has challenged Raven_Ark [34/129] in combat and lost! 0 days, 00:02:17 is added to Ichiru's clock.
+[11/28/15 20:44:39] Mabbs [121/163] has challenged Iven_Trall [28/191] in combat and won! 0 days, 00:08:43 is removed from Mabbs's clock.
+[11/28/15 21:06:51] Chloe [99/192] has challenged Superman [26/264] in combat and won! 0 days, 00:28:36 is removed from Chloe's clock.
+[11/28/15 21:22:35] Kyle [118/130] has challenged Walter [7/144] in combat and won! 0 days, 00:07:31 is removed from Kyle's clock.
+[11/28/15 21:31:00] Iven_Trall [116/191] has challenged Syrialus_Dantere [105/159] in combat and won! 0 days, 00:28:36 is removed from Iven_Trall's clock.
+[11/28/15 21:56:45] Raven_Ark [49/133] has challenged IdleRPG [43/270] in combat and won! 0 days, 00:38:55 is removed from Raven_Ark's clock.
+[11/28/15 22:02:27] Khaos [79/179] has challenged Superman [257/264] in combat and lost! 0 days, 00:13:37 is added to Khaos's clock.
+[11/28/15 22:41:11] Darth_Sigyn [80/264] has challenged Aria_T`Dashi [97/295] in combat and lost! 0 days, 00:33:11 is added to Darth_Sigyn's clock.
+[11/28/15 22:41:41] Flint_Talzo [171/264] has challenged Ichiru [55/69] in combat and won! 0 days, 00:33:11 is removed from Flint_Talzo's clock.
+[11/28/15 22:52:47] Raven_Ark invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 00:04:59 towards level 21.
+[11/28/15 23:10:25] Tyris [59/104] has challenged Darth_Sigyn [231/264] in combat and lost! 0 days, 00:08:43 is added to Tyris's clock.
+[11/28/15 23:22:02] Superman found the Dark side had its light bulb removed! This lucky event has accelerated them 0 days, 00:21:29 towards level 28.
+[11/28/15 23:22:50] Walter [1/144] has challenged Flint_Talzo [141/264] in combat and lost! 0 days, 00:28:36 is added to Walter's clock.
+[11/28/15 23:31:09] Addison [125/182] has challenged Darth_Sigyn [18/264] in combat and won! 0 days, 00:38:30 is removed from Addison's clock.
+[11/28/15 23:50:17] Sigmund [108/286] has challenged Chloe [184/192] in combat and lost! 0 days, 00:38:30 is added to Sigmund's clock.
+[11/28/15 23:59:15] Darth_Sigyn [138/264] has come upon Kyle [132/139] and taken them in combat! 0 days, 00:30:03 is removed from Darth_Sigyn's clock.
+[11/29/15 00:11:10] Selatos found the Dark side had its light bulb removed! This lucky event has accelerated them 0 days, 00:00:25 towards level 28.
+[11/29/15 00:15:02] Selatos [210/236] has challenged Kyle [18/139] in combat and won! 0 days, 00:44:39 is removed from Selatos's clock.
+[11/29/15 00:26:33] Flint_Talzo [65/264] has come upon Addison [74/182] and was defeated in combat! 0 days, 00:23:31 is added to Flint_Talzo's clock.
+[11/29/15 01:13:45] Aria_T`Dashi [140/322] has challenged Selatos [117/236] in combat and won! 0 days, 00:38:30 is removed from Aria_T`Dashi's clock.
+[11/29/15 02:32:11] Khaos [5/200] has challenged Addison [112/182] in combat and lost! 0 days, 00:15:48 is added to Khaos's clock.
+[11/29/15 02:35:26] Superman [248/288] has challenged Aria_T`Dashi [312/322] in combat and lost! 0 days, 00:44:39 is added to Superman's clock.
+[11/29/15 03:20:57] Raven_Ark was force-choked by a tall man in black. This terrible calamity has slowed them 0 days, 00:06:00 from level 22.
+[11/29/15 03:27:00] Chloe [215/240] has challenged Superman [34/288] in combat and won! 0 days, 00:33:11 is removed from Chloe's clock.
+[11/29/15 04:14:25] Tine [152/169] has challenged Sigmund [79/286] in combat and won! 0 days, 00:28:36 is removed from Tine's clock.
+[11/29/15 04:32:01] Raven_Ark went to finish their jedi training! This lucky event has accelerated them 0 days, 00:20:33 towards level 23.
+[11/29/15 04:34:28] Ascarion [0/0] has challenged Darth_Sigyn [243/264] in combat and lost! 0 days, 00:00:48 is added to Ascarion's clock.
+[11/29/15 04:42:23] Lan [68/75] has challenged Kyle [146/150] in combat and lost! 0 days, 00:05:35 is added to Lan's clock.
+[11/29/15 05:19:59] Kay_Dallben [194/196] has challenged Lan [16/75] in combat and won! 0 days, 00:28:36 is removed from Kay_Dallben's clock.
+[11/29/15 05:55:05] Ascarion [18/20] has challenged Khaos [7/200] in combat and won! 0 days, 00:01:42 is removed from Ascarion's clock.
+[11/29/15 06:19:37] Kyle [113/160] has challenged Mabbs [138/198] in combat and lost! 0 days, 00:13:37 is added to Kyle's clock.
+[11/29/15 06:38:28] Darth_Sigyn [120/294] has challenged Flint_Talzo [115/264] in combat and won! 0 days, 00:38:30 is removed from Darth_Sigyn's clock.
+[11/29/15 06:59:15] Flint_Talzo [176/289] has challenged Sigmund [283/286] in combat and lost! 0 days, 00:38:30 is added to Flint_Talzo's clock.
+[11/29/15 07:13:25] Syrialus_Dantere [64/226] has challenged IdleRPG [9/328] in combat and won! 0 days, 01:21:44 is removed from Syrialus_Dantere's clock.
+[11/29/15 07:56:51] Ascarion [43/56] has challenged Chloe [49/240] in combat and lost! 0 days, 00:03:05 is added to Ascarion's clock.
+[11/29/15 08:02:40] Addison [178/207] has challenged Syrialus_Dantere [8/226] in combat and won! 0 days, 00:44:39 is removed from Addison's clock.
+[11/29/15 08:44:04] Ascarion [31/61] has challenged Selatos [185/236] in combat and lost! 0 days, 00:03:34 is added to Ascarion's clock.
+[11/29/15 09:38:47] Sigmund [152/316] has challenged Draelor [97/167] in combat and won! 0 days, 00:44:39 is removed from Sigmund's clock.
+[11/29/15 09:45:15] Aria_T`Dashi [234/371] has challenged Kyle [112/160] in combat and won! 0 days, 00:44:39 is removed from Aria_T`Dashi's clock.
+[11/29/15 10:08:24] Selatos [23/257] has challenged Darth_Sigyn [75/294] in combat and lost! 0 days, 00:51:48 is added to Selatos's clock.
+[11/29/15 10:34:33] Tine [158/177] has challenged Selatos [86/257] in combat and won! 0 days, 00:33:11 is removed from Tine's clock.
+[11/29/15 10:47:58] Chloe [231/264] has challenged Kay_Dallben [128/196] in combat and won! 0 days, 00:38:30 is removed from Chloe's clock.
+[11/29/15 10:53:25] Mabbs [53/209] has challenged Superman [183/288] in combat and lost! 0 days, 00:18:19 is added to Mabbs's clock.
+[11/29/15 11:40:09] Kay_Dallben [146/199] has challenged Sigmund [149/316] in combat and lost! 0 days, 00:33:11 is added to Kay_Dallben's clock.
+[11/29/15 11:47:04] Ascarion [81/101] has challenged Iven_Trall [49/191] in combat and won! 0 days, 00:05:35 is removed from Ascarion's clock.
+[11/29/15 12:40:26] Syrialus_Dantere [20/240] has challenged IdleRPG [200/339] in combat and lost! 0 days, 00:47:24 is added to Syrialus_Dantere's clock.
+[11/29/15 12:51:34] The struggle between the Light and the Dark is too much for Draelor! They break down in agony for 0 days, 00:06:53 losing sense of time.
+[11/29/15 13:01:23] Ascarion [68/101] has challenged Addison [75/207] in combat and lost! 0 days, 00:06:29 is added to Ascarion's clock.
+[11/29/15 13:34:06] Superman started hearing loud breathing sounds behind their back. This terrible calamity has slowed them 0 days, 00:02:38 from level 29.
+[11/29/15 13:41:59] Vip_Fortuna [8/200] has challenged Draelor [52/179] in combat and lost! 0 days, 00:21:15 is added to Vip_Fortuna's clock.
+[11/29/15 14:00:43] Superman [143/311] has challenged Syrialus_Dantere [206/240] in combat and lost! 0 days, 00:51:48 is added to Superman's clock.
+[11/29/15 14:18:18] Iven_Trall and Vip_Fortuna have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 12% of the time to their next level.
+[11/29/15 15:09:58] Darth_Sigyn [244/326] has challenged Syrialus_Dantere [79/240] in combat and won! 0 days, 00:44:39 is removed from Darth_Sigyn's clock.
+[11/29/15 15:33:35] Mabbs [152/211] has challenged Darth_Sigyn [67/326] in combat and won! 0 days, 00:21:15 is removed from Mabbs's clock.
+[11/29/15 15:51:40] Lan [22/110] has challenged Flint_Talzo [18/289] in combat and won! 0 days, 00:07:31 is removed from Lan's clock.
+[11/29/15 16:10:21] Saedrial bought a two-handed hydrospanner! This lucky event has accelerated them 0 days, 00:00:08 towards level 18.
+[11/29/15 16:35:21] Iven_Trall [48/195] has challenged Sigmund [191/316] in combat and lost! 0 days, 00:33:11 is added to Iven_Trall's clock.
+[11/29/15 16:47:47] Flint_Talzo [97/289] has challenged Sigmund [134/316] in combat and lost! 0 days, 00:44:39 is added to Flint_Talzo's clock.
+[11/29/15 17:21:51] Khaos [28/210] has challenged Saedrial [40/116] in combat and lost! 0 days, 00:24:39 is added to Khaos's clock.
+[11/29/15 17:55:31] Tine [161/191] has challenged Sigmund [288/316] in combat and lost! 0 days, 00:38:30 is added to Tine's clock.
+[11/29/15 17:56:01] Addison [236/252] has challenged Khaos [39/210] in combat and won! 0 days, 00:51:48 is removed from Addison's clock.
+[11/29/15 18:04:48] Kyle used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:23:33 towards level 24.
+[11/29/15 18:32:21] Vip_Fortuna [179/207] has challenged Draelor [17/179] in combat and won! 0 days, 00:24:39 is removed from Vip_Fortuna's clock.
+[11/29/15 18:36:37] Saedrial [65/139] has challenged Darth_Sigyn [218/326] in combat and lost! 0 days, 00:11:44 is added to Saedrial's clock.
+[11/29/15 19:09:56] Draelor [126/179] has challenged Flint_Talzo [225/289] in combat and lost! 0 days, 00:28:36 is added to Draelor's clock.
+[11/29/15 19:19:28] Chloe [86/275] has challenged Flint_Talzo [35/289] in combat and won! 0 days, 00:44:39 is removed from Chloe's clock.
+[11/29/15 19:32:09] Sigmund [130/336] has challenged Syrialus_Dantere [157/240] in combat and lost! 0 days, 00:51:48 is added to Sigmund's clock.
+[11/29/15 19:38:36] Aria_T`Dashi [113/382] has challenged Saedrial [55/139] in combat and won! 0 days, 00:51:48 is removed from Aria_T`Dashi's clock.
+[11/29/15 20:07:30] Kay_Dallben [85/201] has challenged Chloe [12/275] in combat and won! 0 days, 00:38:30 is removed from Kay_Dallben's clock.
+[11/29/15 20:23:02] Kyle [182/205] has come upon Iven_Trall [177/195] and taken them in combat! 0 days, 00:11:27 is removed from Kyle's clock.
+[11/29/15 21:20:44] Tyris [93/116] has challenged Superman [24/311] in combat and won! 0 days, 00:11:44 is removed from Tyris's clock.
+[11/29/15 21:21:59] Syrialus_Dantere [125/240] has challenged Tine [148/191] in combat and lost! 0 days, 00:38:30 is added to Syrialus_Dantere's clock.
+[11/29/15 21:36:06] Saedrial [64/148] has challenged Tyris [75/116] in combat and lost! 0 days, 00:13:37 is added to Saedrial's clock.
+[11/29/15 21:58:09] Vip_Fortuna [198/207] has come upon Kyle [104/205] and taken them in combat! 0 days, 00:08:32 is removed from Vip_Fortuna's clock.
+[11/29/15 22:41:09] Tine went to finish their jedi training! This lucky event has accelerated them 0 days, 00:15:08 towards level 28.
+[11/29/15 22:42:42] Selatos [57/257] has come upon Darth_Sigyn [19/326] and taken them in combat! 0 days, 00:02:38 is removed from Selatos's clock.
+[11/29/15 22:55:10] Kyle [10/205] has challenged Ascarion [27/128] in combat and lost! 0 days, 00:24:39 is added to Kyle's clock.
+[11/29/15 23:17:40] Selatos [106/257] has challenged Draelor [111/179] in combat and lost! 0 days, 01:00:05 is added to Selatos's clock.
+[11/29/15 23:45:04] Ascarion [67/128] has challenged Addison [196/252] in combat and lost! 0 days, 00:13:37 is added to Ascarion's clock.
+[11/30/15 00:14:45] Syrialus_Dantere was healed by the Force! This lucky event has accelerated them 0 days, 00:24:56 towards level 28.
+[11/30/15 00:30:38] Khaos [86/249] has challenged Kay_Dallben [47/201] in combat and won! 0 days, 00:28:36 is removed from Khaos's clock.
+[11/30/15 01:03:21] Darth_Sigyn [220/333] has challenged Sigmund [270/336] in combat and lost! 0 days, 00:51:48 is added to Darth_Sigyn's clock.
+[11/30/15 02:27:18] Draelor [80/202] has challenged Syrialus_Dantere [73/240] in combat and won! 0 days, 00:33:11 is removed from Draelor's clock.
+[11/30/15 03:13:19] Ascarion [34/128] has challenged IdleRPG [135/371] in combat and lost! 0 days, 00:22:34 is added to Ascarion's clock.
+[11/30/15 03:28:53] Tine [184/206] has challenged Syrialus_Dantere [94/240] in combat and won! 0 days, 00:44:39 is removed from Tine's clock.
+[11/30/15 03:54:09] Mabbs [142/223] has challenged Kay_Dallben [34/201] in combat and won! 0 days, 00:28:36 is removed from Mabbs's clock.
+[11/30/15 04:10:26] Flint_Talzo [77/305] has challenged Sigmund [176/336] in combat and lost! 0 days, 00:51:48 is added to Flint_Talzo's clock.
+[11/30/15 04:39:02] Kay_Dallben [136/205] has challenged Mabbs [33/223] in combat and won! 0 days, 00:44:39 is removed from Kay_Dallben's clock.
+[11/30/15 05:06:41] Aria_T`Dashi [79/382] has come upon Mabbs [133/223] and was defeated in combat! 0 days, 00:08:25 is added to Aria_T`Dashi's clock.
+[11/30/15 05:12:12] Kyle [2/239] has challenged Khaos [60/249] in combat and lost! 0 days, 00:28:36 is added to Kyle's clock.
+[11/30/15 05:12:51] Chloe [5/287] has challenged Selatos [150/257] in combat and lost! 0 days, 00:51:48 is added to Chloe's clock.
+[11/30/15 05:24:19] Addison [138/258] has challenged Raven_Ark [138/180] in combat and won! 0 days, 01:00:05 is removed from Addison's clock.
+[11/30/15 05:47:09] The struggle between the Light and the Dark is too much for Kyle! They break down in agony for 0 days, 02:32:55 losing sense of time.
+[11/30/15 06:28:12] Gaston_SlamFist [1/4] has challenged IdleRPG [182/371] in combat and lost! 0 days, 00:01:20 is added to Gaston_SlamFist's clock.
+[11/30/15 06:45:35] Syrialus_Dantere [205/241] has challenged Ascarion [83/128] in combat and won! 0 days, 00:44:39 is removed from Syrialus_Dantere's clock.
+[11/30/15 07:06:37] Vip_Fortuna [182/227] has challenged Mabbs [167/223] in combat and won! 0 days, 00:28:36 is removed from Vip_Fortuna's clock.
+[11/30/15 07:15:20] Aria_T`Dashi [201/394] has challenged Flint_Talzo [186/305] in combat and won! 0 days, 01:00:05 is removed from Aria_T`Dashi's clock.
+[11/30/15 07:16:47] Gaston_SlamFist [16/17] has challenged Kay_Dallben [201/205] in combat and lost! 0 days, 00:01:28 is added to Gaston_SlamFist's clock.
+[11/30/15 07:21:39] Ascarion [75/131] has challenged Gaston_SlamFist [15/17] in combat and won! 0 days, 00:18:19 is removed from Ascarion's clock.
+[11/30/15 08:31:54] Gaston_SlamFist [8/37] has challenged Sigmund [98/336] in combat and lost! 0 days, 00:02:17 is added to Gaston_SlamFist's clock.
+[11/30/15 08:44:03] Sigmund [228/340] has challenged Addison [143/258] in combat and won! 0 days, 01:00:05 is removed from Sigmund's clock.
+[11/30/15 09:34:04] Khaos [57/267] has challenged Chloe [191/287] in combat and lost! 0 days, 00:33:11 is added to Khaos's clock.
+[11/30/15 09:48:17] Draelor [133/202] has challenged Kyle [81/239] in combat and won! 0 days, 00:38:30 is removed from Draelor's clock.
+[11/30/15 13:13:05] Syrialus_Dantere used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:14:24 towards level 29.
+[11/30/15 13:17:39] Vip_Fortuna got their midi-chlorians measured! This lucky event has accelerated them 0 days, 00:01:05 towards level 26.
+[11/30/15 13:22:15] Tine [217/231] has challenged Saedrial [96/148] in combat and won! 0 days, 00:51:48 is removed from Tine's clock.
+[11/30/15 13:25:40] Vip_Fortuna [112/247] has challenged Darth_Sigyn [302/333] in combat and lost! 0 days, 00:33:11 is added to Vip_Fortuna's clock.
+[11/30/15 14:15:15] Darth_Sigyn [74/352] has challenged Kyle [213/239] in combat and lost! 0 days, 01:00:05 is added to Darth_Sigyn's clock.
+[11/30/15 14:32:23] Kay_Dallben [162/205] has challenged Ichiru [26/96] in combat and won! 0 days, 00:51:48 is removed from Kay_Dallben's clock.
+[11/30/15 14:36:14] Selatos [215/290] has challenged Flint_Talzo [80/305] in combat and won! 0 days, 01:09:42 is removed from Selatos's clock.
+[11/30/15 15:02:29] Kyle [243/287] has challenged Tine [73/231] in combat and won! 0 days, 00:33:11 is removed from Kyle's clock.
+[11/30/15 15:33:51] Raven_Ark [108/199] has challenged Selatos [18/290] in combat and won! 0 days, 00:28:36 is removed from Raven_Ark's clock.
+[11/30/15 15:49:17] Saedrial [104/162] has challenged Ichiru [69/98] in combat and won! 0 days, 00:18:19 is removed from Saedrial's clock.
+[11/30/15 16:24:33] Syrialus_Dantere [262/265] has challenged Raven_Ark [11/199] in combat and won! 0 days, 00:51:48 is removed from Syrialus_Dantere's clock.
+[11/30/15 16:28:58] Ascarion [131/171] has challenged IdleRPG [355/393] in combat and lost! 0 days, 00:35:14 is added to Ascarion's clock.
+[11/30/15 17:53:48] Flint_Talzo [232/306] has challenged Chloe [113/287] in combat and won! 0 days, 01:00:05 is removed from Flint_Talzo's clock.
+[11/30/15 18:19:48] Draelor [122/202] has challenged Syrialus_Dantere [139/265] in combat and lost! 0 days, 00:44:39 is added to Draelor's clock.
+[11/30/15 18:24:46] Chloe [183/306] has challenged Mabbs [183/223] in combat and won! 0 days, 01:00:05 is removed from Chloe's clock.
+[11/30/15 18:28:16] Sigmund was force-choked by a tall man in black. This terrible calamity has slowed them 0 days, 00:25:42 from level 31.
+[11/30/15 18:42:45] Addison [211/258] has challenged Selatos [224/290] in combat and lost! 0 days, 01:09:42 is added to Addison's clock.
+[11/30/15 18:47:36] Gaston_SlamFist [32/67] has challenged Tine [8/231] in combat and won! 0 days, 00:03:34 is removed from Gaston_SlamFist's clock.
+[11/30/15 19:52:49] Saedrial [86/189] has challenged Kyle [47/287] in combat and won! 0 days, 00:21:15 is removed from Saedrial's clock.
+[11/30/15 20:34:36] Gaston_SlamFist [39/82] has challenged Chloe [185/306] in combat and lost! 0 days, 00:04:49 is added to Gaston_SlamFist's clock.
+[11/30/15 20:42:07] Mabbs [158/270] has challenged Sigmund [17/340] in combat and won! 0 days, 00:33:11 is removed from Mabbs's clock.
+[11/30/15 20:57:54] Aria_T`Dashi [322/442] has challenged Draelor [143/202] in combat and won! 0 days, 01:09:42 is removed from Aria_T`Dashi's clock.
+[11/30/15 20:57:54] In the fierce battle, Draelor lost his level 32 portable fission generator! Aria_T`Dashi takes it, leaving his old level 23 portable fission generator to Draelor.
+[11/30/15 21:53:01] Vip_Fortuna [60/261] has challenged Darth_Sigyn [291/352] in combat and lost! 0 days, 00:38:30 is added to Vip_Fortuna's clock.
+[11/30/15 22:23:26] Kyle [258/313] has challenged Khaos [33/267] in combat and won! 0 days, 00:38:30 is removed from Kyle's clock.
+[11/30/15 22:56:34] Ascarion [17/177] has challenged Sigmund [45/340] in combat and lost! 0 days, 00:28:36 is added to Ascarion's clock.
+[11/30/15 23:39:01] Khaos [159/267] has challenged Darth_Sigyn [34/352] in combat and won! 0 days, 00:38:30 is removed from Khaos's clock.
+[12/01/15 00:04:04] Tine got vibroknifed in a dark alley. This terrible calamity has slowed them 0 days, 00:05:07 from level 30.
+[12/01/15 00:55:40] Tine [81/246] has challenged Draelor [72/194] in combat and won! 0 days, 01:00:05 is removed from Tine's clock.
+[12/01/15 01:06:02] Chloe [168/306] has come upon Khaos [169/267] and was defeated in combat! 0 days, 00:27:48 is added to Chloe's clock.
+[12/01/15 01:55:14] Sigmund [336/340] has come upon Syrialus_Dantere [202/265] and taken them in combat! 0 days, 00:00:29 is removed from Sigmund's clock.
+[12/01/15 02:00:41] Kay_Dallben [213/236] has challenged Aria_T`Dashi [373/452] in combat and lost! 0 days, 01:00:05 is added to Kay_Dallben's clock.
+[12/01/15 02:01:38] Sigmund [333/340] has challenged Mabbs [236/270] in combat and won! 0 days, 01:09:42 is removed from Sigmund's clock.
+[12/01/15 03:26:58] Raven_Ark went to finish their jedi training! This lucky event has accelerated them 0 days, 00:08:34 towards level 26.
+[12/01/15 03:52:52] Syrialus_Dantere [245/285] has challenged Gaston_SlamFist [40/105] in combat and won! 0 days, 01:00:05 is removed from Syrialus_Dantere's clock.
+[12/01/15 04:03:05] Mabbs [172/276] has challenged Selatos [180/290] in combat and lost! 0 days, 00:38:30 is added to Mabbs's clock.
+[12/01/15 04:12:45] Chloe hired a durosian second pilot! This lucky event has accelerated them 0 days, 00:23:49 towards level 31.
+[12/01/15 05:33:49] Darth_Sigyn [282/398] has challenged Draelor [159/194] in combat and won! 0 days, 01:09:42 is removed from Darth_Sigyn's clock.
+[12/01/15 05:42:29] Draelor [196/236] has challenged IdleRPG [106/444] in combat and won! 0 days, 02:28:01 is removed from Draelor's clock.
+[12/01/15 06:02:25] Selatos [43/290] has challenged Syrialus_Dantere [5/285] in combat and won! 0 days, 01:20:51 is removed from Selatos's clock.
+[12/01/15 06:09:59] Raven_Ark [171/204] has challenged Chloe [49/306] in combat and won! 0 days, 00:33:11 is removed from Raven_Ark's clock.
+[12/01/15 06:13:54] Ascarion [130/177] has challenged Draelor [45/236] in combat and won! 0 days, 00:33:11 is removed from Ascarion's clock.
+[12/01/15 06:13:54] In the fierce battle, Draelor lost his level 29 personal shield generator! Ascarion takes it, leaving his old level 24 personal shield generator to Draelor.
+[12/01/15 06:54:58] Kyle [6/335] has challenged Gaston_SlamFist [13/108] in combat and lost! 0 days, 00:44:39 is added to Kyle's clock.
+[12/01/15 07:47:11] Chloe [202/306] has challenged Sigmund [50/340] in combat and won! 0 days, 01:09:42 is removed from Chloe's clock.
+[12/01/15 08:55:56] Flint_Talzo [93/310] has challenged Draelor [17/232] in combat and won! 0 days, 01:09:42 is removed from Flint_Talzo's clock.
+[12/01/15 09:02:37] Saedrial [136/189] has challenged Syrialus_Dantere [230/285] in combat and lost! 0 days, 00:24:39 is added to Saedrial's clock.
+[12/01/15 09:16:44] Saedrial bribed the local Imperial administrator! This lucky event has accelerated them 0 days, 00:36:17 towards level 25.
+[12/01/15 10:03:38] Khaos [224/306] has challenged Mabbs [157/276] in combat and won! 0 days, 00:44:39 is removed from Khaos's clock.
+[12/01/15 12:24:05] Aria_T`Dashi [85/452] has challenged Vip_Fortuna [142/261] in combat and lost! 0 days, 01:20:51 is added to Aria_T`Dashi's clock.
+[12/01/15 13:30:56] Raven_Ark [92/204] has challenged Khaos [138/306] in combat and lost! 0 days, 00:38:30 is added to Raven_Ark's clock.
+[12/01/15 13:34:53] Ascarion [96/228] has challenged Tine [6/246] in combat and won! 0 days, 00:38:30 is removed from Ascarion's clock.
+[12/01/15 13:41:15] Khaos and Vip_Fortuna have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 7% of the time to their next level.
+[12/01/15 13:50:34] Tine purchased some prime Tatooine real estate! This lucky event has accelerated them 0 days, 00:02:07 towards level 31.
+[12/01/15 14:11:58] Tine [202/262] has challenged Raven_Ark [203/204] in combat and lost! 0 days, 01:09:42 is added to Tine's clock.
+[12/01/15 15:34:33] Draelor [51/293] has challenged Addison [44/258] in combat and won! 0 days, 01:00:05 is removed from Draelor's clock.
+[12/01/15 16:16:10] Saedrial, Chloe, and Sigmund [487/835] have team battled Kyle, Khaos, and Addison [258/899] and won! 0 days, 00:02:02 is removed from their clocks.
+[12/01/15 16:24:16] Saedrial [87/194] has challenged Ichiru [54/112] in combat and won! 0 days, 00:28:36 is removed from Saedrial's clock.
+[12/01/15 17:09:18] Saedrial was told they were our only hope. Oh my! This lucky event has accelerated them 0 days, 00:33:30 towards level 26.
+[12/01/15 17:11:18] Syrialus_Dantere [288/302] has challenged Vip_Fortuna [187/261] in combat and won! 0 days, 01:09:42 is removed from Syrialus_Dantere's clock.
+[12/01/15 17:19:16] Kay_Dallben [8/279] has challenged Sigmund [133/340] in combat and lost! 0 days, 01:09:42 is added to Kay_Dallben's clock.
+[12/01/15 17:19:28] Vip_Fortuna [219/261] has challenged Ascarion [21/228] in combat and won! 0 days, 00:44:39 is removed from Vip_Fortuna's clock.
+[12/01/15 17:25:47] Sigmund [218/372] has challenged Tine [260/262] in combat and lost! 0 days, 01:20:51 is added to Sigmund's clock.
+[12/01/15 18:17:39] Kyle [218/380] has challenged Darth_Sigyn [313/398] in combat and lost! 0 days, 00:51:48 is added to Kyle's clock.
+[12/01/15 19:02:14] Kay_Dallben stopped having a bad feeling about this! This lucky event has accelerated them 0 days, 01:17:00 towards level 32.
+[12/01/15 19:36:16] Gaston_SlamFist [112/119] has challenged Kay_Dallben [56/279] in combat and won! 0 days, 00:13:37 is removed from Gaston_SlamFist's clock.
+[12/01/15 20:05:22] Mabbs [71/338] has challenged Draelor [180/293] in combat and lost! 0 days, 00:44:39 is added to Mabbs's clock.
+[12/01/15 20:55:34] Saedrial was paid to be cloned for an army! This lucky event has accelerated them 0 days, 00:05:16 towards level 26.
+[12/01/15 20:59:59] Darth_Sigyn [64/402] has challenged Draelor [7/293] in combat and won! 0 days, 01:20:51 is removed from Darth_Sigyn's clock.
+[12/01/15 21:07:57] Khaos [184/306] has challenged Sigmund [24/372] in combat and won! 0 days, 00:59:12 is removed from Khaos's clock.
+[12/01/15 21:23:14] Tyris [129/132] has come upon Khaos [288/306] and was defeated in combat! 0 days, 00:07:21 is added to Tyris's clock.
+[12/01/15 21:25:14] The struggle between the Light and the Dark is too much for Kyle! They break down in agony for 0 days, 01:06:28 losing sense of time.
+[12/01/15 22:05:40] Saedrial [157/200] has challenged Kay_Dallben [216/279] in combat and lost! 0 days, 00:33:11 is added to Saedrial's clock.
+[12/01/15 22:06:25] Ascarion [162/234] has challenged Raven_Ark [194/204] in combat and lost! 0 days, 00:44:39 is added to Ascarion's clock.
+[12/01/15 22:19:50] Vip_Fortuna bribed the local Imperial administrator! This lucky event has accelerated them 0 days, 00:29:18 towards level 29.
+[12/01/15 22:27:00] Tine got a Geonosian weaponmaker to fix their blaster! This lucky event has accelerated them 0 days, 01:02:45 towards level 32.
+[12/01/15 23:11:18] Chloe [223/371] has challenged Syrialus_Dantere [77/302] in combat and won! 0 days, 01:20:51 is removed from Chloe's clock.
+[12/01/15 23:19:28] Raven_Ark [134/218] has challenged Chloe [45/371] in combat and won! 0 days, 00:51:02 is removed from Raven_Ark's clock.
+[12/01/15 23:20:25] Kyle set their astromech on fire. This terrible calamity has slowed them 0 days, 00:50:00 from level 30.
+[12/01/15 23:38:15] Addison [150/258] has challenged IdleRPG [215/448] in combat and lost! 0 days, 01:55:31 is added to Addison's clock.
+[12/01/15 23:45:51] Tine tried to improve their rancor-tipping skills. This terrible calamity has slowed them 0 days, 00:51:28 from level 32.
+[12/01/15 23:56:47] Selatos [72/298] has challenged Kyle [322/380] in combat and lost! 0 days, 01:33:48 is added to Selatos's clock.
+[12/02/15 01:00:13] Flint_Talzo [204/310] has challenged Darth_Sigyn [142/402] in combat and won! 0 days, 01:32:24 is removed from Flint_Talzo's clock.
+[12/02/15 04:03:16] Kay_Dallben got their ears gunganed! This lucky event has accelerated them 0 days, 00:24:07 towards level 32.
+[12/02/15 04:52:57] Draelor [177/327] has challenged Addison [178/258] in combat and lost! 0 days, 01:09:42 is added to Draelor's clock.
+[12/02/15 07:46:16] Tine [112/262] has challenged Vip_Fortuna [105/261] in combat and won! 0 days, 01:20:51 is removed from Tine's clock.
+[12/02/15 08:37:28] Syrialus_Dantere [6/323] has challenged Tine [64/262] in combat and lost! 0 days, 01:20:51 is added to Syrialus_Dantere's clock.
+[12/02/15 09:00:07] Aria_T`Dashi [301/452] has challenged Vip_Fortuna [77/261] in combat and won! 0 days, 01:33:48 is removed from Aria_T`Dashi's clock.
+[12/02/15 09:06:28] Raven_Ark [42/219] has challenged Ascarion [179/234] in combat and lost! 0 days, 00:51:48 is added to Raven_Ark's clock.
+[12/02/15 09:23:43] Kay_Dallben [125/330] has challenged Selatos [270/298] in combat and lost! 0 days, 01:20:51 is added to Kay_Dallben's clock.
+[12/02/15 09:29:05] Ascarion [157/247] has challenged Raven_Ark [9/219] in combat and won! 0 days, 00:51:48 is removed from Ascarion's clock.
+[12/02/15 09:32:23] Flint_Talzo, Selatos, and Ichiru [379/755] have team battled Chloe, Ascarion, and Kay_Dallben [676/948] and lost! 0 days, 00:13:20 is added to their clocks.
+[12/02/15 09:41:39] Addison is forsaken by the Dark side. 0 days, 00:06:40 is added to their clock.
+[12/02/15 10:40:19] Vip_Fortuna [93/297] has challenged Ascarion [48/247] in combat and won! 0 days, 00:51:48 is removed from Vip_Fortuna's clock.
+[12/02/15 13:56:35] Saedrial [189/205] has challenged Aria_T`Dashi [78/452] in combat and won! 0 days, 00:44:00 is removed from Saedrial's clock.
+[12/02/15 14:54:21] Darth_Sigyn [392/402] has challenged Chloe [88/371] in combat and won! 0 days, 01:47:12 is removed from Darth_Sigyn's clock.
+[12/02/15 17:05:40] Chloe [227/371] has challenged Aria_T`Dashi [53/452] in combat and won! 0 days, 01:47:12 is removed from Chloe's clock.
+[12/02/15 17:05:40] In the fierce battle, Aria_T`Dashi lost his level 58 flight suit! Chloe takes it, leaving his old level 28 flight suit to Aria_T`Dashi.
+[12/02/15 20:04:29] Ichiru got a Geonosian weaponmaker to fix their blaster! This lucky event has accelerated them 0 days, 00:05:08 towards level 24.
+[12/02/15 20:19:52] Flint_Talzo [60/310] has challenged Aria_T`Dashi [222/419] in combat and lost! 0 days, 01:33:48 is added to Flint_Talzo's clock.
+[12/02/15 20:25:13] The fabric of the world shudders as the Force grows in Flint_Talzo, bringing them 0 days, 04:45:42 closer to level 34.
+[12/02/15 20:25:19] Vip_Fortuna [183/297] has come upon Saedrial [193/205] and was defeated in combat! 0 days, 00:07:14 is added to Vip_Fortuna's clock.
+[12/02/15 20:55:38] Addison [133/263] has challenged Chloe [379/401] in combat and lost! 0 days, 01:33:48 is added to Addison's clock.
+[12/02/15 21:19:43] Ascarion [200/247] has challenged Draelor [70/327] in combat and won! 0 days, 01:00:05 is removed from Ascarion's clock.
+[12/02/15 21:39:56] Chloe got their protocol droid decapitated, temporarily... This terrible calamity has slowed them 0 days, 01:35:51 from level 34.
+[12/02/15 21:51:57] Sparky [0/1] has challenged Syrialus_Dantere [233/323] in combat and lost! 0 days, 00:00:48 is added to Sparky's clock.
+[12/02/15 22:04:21] Sparky [3/4] has challenged Ascarion [233/247] in combat and lost! 0 days, 00:00:56 is added to Sparky's clock.
+[12/02/15 22:15:50] Vip_Fortuna [233/297] has challenged Draelor [59/327] in combat and won! 0 days, 01:00:05 is removed from Vip_Fortuna's clock.
+[12/02/15 22:18:23] Raven_Ark [162/235] has challenged Aria_T`Dashi [7/419] in combat and won! 0 days, 01:08:40 is removed from Raven_Ark's clock.
+[12/02/15 22:21:35] Dunta_Star [2/8] has challenged Vip_Fortuna [136/297] in combat and lost! 0 days, 00:01:05 is added to Dunta_Star's clock.
+[12/02/15 22:22:35] Saedrial [55/227] has challenged Syrialus_Dantere [265/323] in combat and lost! 0 days, 00:44:39 is added to Saedrial's clock.
+[12/02/15 22:34:22] Sparky [8/13] has challenged Mabbs [40/338] in combat and lost! 0 days, 00:01:16 is added to Sparky's clock.
+[12/02/15 22:38:31] Draelor [120/333] has challenged IdleRPG [177/448] in combat and lost! 0 days, 01:55:31 is added to Draelor's clock.
+[12/02/15 23:00:35] Mabbs [328/338] has challenged Darth_Sigyn [316/402] in combat and won! 0 days, 00:59:12 is removed from Mabbs's clock.
+[12/03/15 00:03:56] Selatos [281/298] has challenged Xu [11/15] in combat and won! 0 days, 01:48:48 is removed from Selatos's clock.
+[12/03/15 00:07:26] Sparky [7/28] has challenged IdleRPG [438/448] in combat and lost! 0 days, 00:03:16 is added to Sparky's clock.
+[12/03/15 01:06:40] Xu had a VERY short career as a swoop pilot. This terrible calamity has slowed them 0 days, 00:00:29 from level 9.
+[12/03/15 01:20:51] Dunta_Star [55/59] has challenged Ascarion [77/247] in combat and lost! 0 days, 00:03:05 is added to Dunta_Star's clock.
+[12/03/15 01:21:33] Sparky [32/55] has challenged Mabbs [160/338] in combat and lost! 0 days, 00:03:05 is added to Sparky's clock.
+[12/03/15 01:40:38] Tine [239/270] has challenged Dunta_Star [38/59] in combat and won! 0 days, 01:33:48 is removed from Tine's clock.
+[12/03/15 02:58:46] Kyle [274/380] has challenged IdleRPG [9/448] in combat and won! 0 days, 02:51:41 is removed from Kyle's clock.
+[12/03/15 04:27:09] Xu [12/65] has challenged Ascarion [232/247] in combat and lost! 0 days, 00:04:49 is added to Xu's clock.
+[12/03/15 05:00:56] Darth_Sigyn [379/402] has come upon Kyle [87/380] and taken them in combat! 0 days, 00:27:02 is removed from Darth_Sigyn's clock.
+[12/03/15 05:25:56] The fabric of the world shudders as the Force grows in Selatos, bringing them 0 days, 07:29:28 closer to level 35.
+[12/03/15 05:46:20] Aria_T`Dashi [154/420] has challenged Darth_Sigyn [274/402] in combat and lost! 0 days, 01:48:48 is added to Aria_T`Dashi's clock.
+[12/03/15 06:28:06] Sparky [5/106] has challenged Chloe [16/401] in combat and lost! 0 days, 00:06:29 is added to Sparky's clock.
+[12/03/15 07:03:13] Kay_Dallben [88/330] has challenged Saedrial [192/227] in combat and lost! 0 days, 01:33:48 is added to Kay_Dallben's clock.
+[12/03/15 07:29:58] Draelor is forsaken by the Dark side. 0 days, 00:07:23 is added to their clock.
+[12/03/15 08:07:15] Sparky [97/117] has challenged Dunta_Star [76/120] in combat and won! 0 days, 00:07:31 is removed from Sparky's clock.
+[12/03/15 08:34:35] Xu [21/98] has challenged Mabbs [21/338] in combat and won! 0 days, 00:07:31 is removed from Xu's clock.
+[12/03/15 08:47:25] Selatos invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 00:47:16 towards level 35.
+[12/03/15 09:45:16] Saedrial [203/234] has challenged Aria_T`Dashi [3/420] in combat and won! 0 days, 00:59:12 is removed from Saedrial's clock.
+[12/03/15 10:38:08] Ascarion [159/297] has challenged Vip_Fortuna [223/297] in combat and lost! 0 days, 01:09:42 is added to Ascarion's clock.
+[12/03/15 11:00:08] Darth_Sigyn [10/402] has challenged Xu [73/98] in combat and lost! 0 days, 01:48:48 is added to Darth_Sigyn's clock.
+[12/03/15 11:19:23] Chloe learned a better way to eat a pear! This lucky event has accelerated them 0 days, 00:14:06 towards level 34.
+[12/03/15 11:26:42] Syrialus_Dantere [145/329] has challenged Chloe [117/401] in combat and won! 0 days, 01:47:12 is removed from Syrialus_Dantere's clock.
+[12/03/15 11:28:13] Raven_Ark [158/235] has challenged IdleRPG [290/448] in combat and lost! 0 days, 01:39:35 is added to Raven_Ark's clock.
+[12/03/15 11:34:58] Mabbs [32/338] has challenged Sparky [96/121] in combat and lost! 0 days, 01:00:05 is added to Mabbs's clock.
+[12/03/15 14:16:34] Sparky [62/159] has challenged Kay_Dallben [154/330] in combat and lost! 0 days, 00:11:44 is added to Sparky's clock.
+[12/03/15 14:25:35] Kyle [86/380] has challenged IdleRPG [322/448] in combat and lost! 0 days, 01:39:35 is added to Kyle's clock.
+[12/03/15 15:00:16] Chloe [278/408] has challenged Darth_Sigyn [249/402] in combat and won! 0 days, 02:04:21 is removed from Chloe's clock.
+[12/03/15 15:52:49] Selatos [23/298] has challenged Kay_Dallben [82/330] in combat and lost! 0 days, 02:06:13 is added to Selatos's clock.
+[12/03/15 16:19:53] Flint_Talzo [217/347] has challenged Tine [154/270] in combat and won! 0 days, 02:04:21 is removed from Flint_Talzo's clock.
+[12/03/15 16:52:05] Lan [40/155] has come upon Ascarion [240/297] and was defeated in combat! 0 days, 00:02:32 is added to Lan's clock.
+[12/03/15 18:22:15] Vip_Fortuna [246/306] has challenged Ascarion [254/297] in combat and lost! 0 days, 01:09:42 is added to Vip_Fortuna's clock.
+[12/03/15 19:56:36] Draelor [22/375] has challenged Selatos [127/298] in combat and lost! 0 days, 01:33:48 is added to Draelor's clock.
+[12/03/15 20:30:43] Sparky [53/171] has challenged IdleRPG [118/448] in combat and lost! 0 days, 00:22:34 is added to Sparky's clock.
+[12/03/15 20:49:27] Addison [208/263] has challenged Vip_Fortuna [241/306] in combat and lost! 0 days, 01:48:48 is added to Addison's clock.
+[12/03/15 22:26:52] Tine [171/288] has challenged Flint_Talzo [133/347] in combat and won! 0 days, 02:04:21 is removed from Tine's clock.
+[12/03/15 22:43:36] Dunta_Star [155/185] has come upon Chloe [339/408] and was defeated in combat! 0 days, 00:05:42 is added to Dunta_Star's clock.
+[12/04/15 00:04:46] Vip_Fortuna got lost in hyperspace. This terrible calamity has slowed them 0 days, 00:43:23 from level 32.
+[12/04/15 01:12:44] Rick_Olie [0/1] has challenged Ascarion [247/297] in combat and lost! 0 days, 00:00:48 is added to Rick_Olie's clock.
+[12/04/15 01:16:03] Lan fell down a gravity well. This terrible calamity has slowed them 0 days, 00:22:55 from level 25.
+[12/04/15 01:25:10] Rick_Olie [2/4] has challenged Aria_T`Dashi [0/420] in combat and won! 0 days, 00:01:04 is removed from Rick_Olie's clock.
+[12/04/15 01:33:26] Selatos overheated their blaster. Again... This terrible calamity has slowed them 0 days, 02:01:23 from level 36.
+[12/04/15 04:23:43] Ascarion [131/309] has challenged Sparky [57/192] in combat and won! 0 days, 01:20:51 is removed from Ascarion's clock.
+[12/04/15 04:49:57] Lan [162/173] has challenged Selatos [93/298] in combat and won! 0 days, 00:32:41 is removed from Lan's clock.
+[12/04/15 04:53:52] Xu [157/191] has challenged Tine [275/288] in combat and lost! 0 days, 00:21:15 is added to Xu's clock.
+[12/04/15 05:00:55] Sparky [20/213] has challenged Dunta_Star [156/194] in combat and lost! 0 days, 00:21:15 is added to Sparky's clock.
+[12/04/15 05:19:52] Rick_Olie [29/77] has challenged Chloe [41/408] in combat and lost! 0 days, 00:03:34 is added to Rick_Olie's clock.
+[12/04/15 06:14:36] Rick_Olie [29/88] has challenged Draelor [334/375] in combat and lost! 0 days, 00:04:09 is added to Rick_Olie's clock.
+[12/04/15 06:57:02] Kay_Dallben [320/330] has challenged Flint_Talzo [337/347] in combat and lost! 0 days, 01:48:48 is added to Kay_Dallben's clock.
+[12/04/15 07:59:33] Syrialus_Dantere [232/368] has challenged Addison [209/263] in combat and won! 0 days, 02:04:21 is removed from Syrialus_Dantere's clock.
+[12/04/15 08:41:03] Kyle [108/410] has challenged Raven_Ark [219/235] in combat and lost! 0 days, 01:20:51 is added to Kyle's clock.
+[12/04/15 09:29:33] Aria_T`Dashi [198/430] has challenged Rick_Olie [5/103] in combat and won! 0 days, 02:06:13 is removed from Aria_T`Dashi's clock.
+[12/04/15 09:59:09] Ascarion was mistaken for a droid by jawas. This terrible calamity has slowed them 0 days, 01:13:53 from level 33.
+[12/04/15 11:07:19] Raven_Ark [130/235] has challenged Xu [10/206] in combat and won! 0 days, 01:20:51 is removed from Raven_Ark's clock.
+[12/04/15 13:07:03] Rick_Olie [67/135] has challenged IdleRPG [127/448] in combat and lost! 0 days, 00:12:28 is added to Rick_Olie's clock.
+[12/04/15 14:43:21] Darth_Sigyn [243/402] has challenged Raven_Ark [230/235] in combat and won! 0 days, 02:24:15 is removed from Darth_Sigyn's clock.
+[12/04/15 14:50:22] Chloe [182/424] has challenged Dunta_Star [30/194] in combat and won! 0 days, 02:06:13 is removed from Chloe's clock.
+[12/04/15 15:28:41] Dunta_Star [85/200] has challenged Draelor [371/375] in combat and lost! 0 days, 00:28:36 is added to Dunta_Star's clock.
+[12/04/15 16:11:14] Xu [153/241] has challenged Darth_Sigyn [87/402] in combat and won! 0 days, 00:32:41 is removed from Xu's clock.
+[12/04/15 19:05:45] Sparky [72/268] has challenged Flint_Talzo [50/347] in combat and won! 0 days, 00:32:41 is removed from Sparky's clock.
+[12/04/15 19:21:41] Vip_Fortuna [296/306] has challenged Sparky [193/268] in combat and won! 0 days, 01:20:51 is removed from Vip_Fortuna's clock.
+[12/04/15 19:44:12] Chloe was healed by the Force! This lucky event has accelerated them 0 days, 01:22:59 towards level 36.
+[12/04/15 19:50:27] Draelor [270/383] has challenged Sparky [34/268] in combat and won! 0 days, 01:48:48 is removed from Draelor's clock.
+[12/04/15 19:59:56] It seems the Kessel run was too much for Aria_T`Dashi and they smashed into an asteroid!
+[12/04/15 20:05:23] Flint_Talzo [151/366] has challenged Aria_T`Dashi [109/422] in combat and won! 0 days, 02:24:15 is removed from Flint_Talzo's clock.
+[12/04/15 20:05:23] In the fierce battle, Aria_T`Dashi lost his level 25 pazaak deck! Flint_Talzo takes it, leaving his old level 24 pazaak deck to Aria_T`Dashi.
+[12/04/15 21:27:02] Rick_Olie [2/178] has come upon Draelor [350/383] and was defeated in combat! 0 days, 00:10:05 is added to Rick_Olie's clock.
+[12/04/15 21:27:05] Rick_Olie [78/178] has come upon Draelor [155/383] and was defeated in combat! 0 days, 00:10:47 is added to Rick_Olie's clock.
+[12/04/15 22:06:25] Darth_Sigyn stole Aria_T`Dashi's level 38 planetary citizenship papers while they were sleeping! Darth_Sigyn leaves his old level 19 planetary citizenship papers behind, which Aria_T`Dashi then takes.
+[12/04/15 22:32:08] Xu [9/247] has challenged Mabbs [73/338] in combat and lost! 0 days, 00:33:11 is added to Xu's clock.
+[12/04/15 22:46:03] Dunta_Star [158/200] has challenged Vip_Fortuna [141/306] in combat and won! 0 days, 00:37:55 is removed from Dunta_Star's clock.
+[12/04/15 22:59:59] Tine [198/305] has challenged Dunta_Star [168/200] in combat and won! 0 days, 02:06:13 is removed from Tine's clock.
+[12/04/15 23:30:20] Mabbs [157/383] has challenged Chloe [2/424] in combat and won! 0 days, 01:19:40 is removed from Mabbs's clock.
+[12/04/15 23:31:56] Ascarion [14/309] has challenged Flint_Talzo [256/367] in combat and lost! 0 days, 01:33:48 is added to Ascarion's clock.
+[12/04/15 23:57:14] Tine, Lan, and Addison [501/741] have team battled Darth_Sigyn, Ascarion, and Sparky [622/996] and lost! 0 days, 00:57:04 is added to their clocks.
+[12/05/15 00:11:04] Mabbs got their midi-chlorians measured! This lucky event has accelerated them 0 days, 01:27:33 towards level 32.
+[12/05/15 01:21:50] Sparky [218/319] has challenged Aria_T`Dashi [52/400] in combat and won! 0 days, 00:37:55 is removed from Sparky's clock.
+[12/05/15 01:24:21] Flint_Talzo [118/367] has come upon Ascarion [241/309] and was defeated in combat! 0 days, 01:41:25 is added to Flint_Talzo's clock.
+[12/05/15 02:03:34] Selatos [270/336] has challenged Flint_Talzo [34/367] in combat and won! 0 days, 02:47:19 is removed from Selatos's clock.
+[12/05/15 02:13:59] The fabric of the world shudders as the Force grows in Addison, bringing them 0 days, 02:41:34 closer to level 35.
+[12/05/15 02:15:32] Rick_Olie [161/181] has come upon Kyle [217/410] and was defeated in combat! 0 days, 00:07:09 is added to Rick_Olie's clock.
+[12/05/15 03:37:19] Aria_T`Dashi and Flint_Talzo have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 7% of the time to their next level.
+[12/05/15 04:04:59] Rick_Olie [24/181] has challenged Addison [172/263] in combat and lost! 0 days, 00:18:19 is added to Rick_Olie's clock.
+[12/05/15 05:23:38] Addison [113/284] has challenged Raven_Ark [198/235] in combat and lost! 0 days, 02:06:13 is added to Addison's clock.
+[12/05/15 06:02:16] Dunta_Star [70/229] has challenged Addison [232/284] in combat and lost! 0 days, 00:38:30 is added to Dunta_Star's clock.
+[12/05/15 06:26:22] The fabric of the world shudders as the Force grows in Kay_Dallben, bringing them 0 days, 01:21:15 closer to level 35.
+[12/05/15 06:55:38] The fabric of the world shudders as the Force grows in Chloe, bringing them 0 days, 04:17:46 closer to level 36.
+[12/05/15 06:59:27] Xu [201/247] has challenged IdleRPG [173/467] in combat and won! 0 days, 01:50:00 is removed from Xu's clock.
+[12/05/15 07:24:02] Addison hired a durosian second pilot! This lucky event has accelerated them 0 days, 03:00:54 towards level 36.
+[12/05/15 07:49:38] Syrialus_Dantere [234/377] has challenged Tine [35/305] in combat and won! 0 days, 02:24:15 is removed from Syrialus_Dantere's clock.
+[12/05/15 08:38:04] Sparky [148/324] has challenged Vip_Fortuna [248/306] in combat and lost! 0 days, 00:38:30 is added to Sparky's clock.
+[12/05/15 09:19:00] Kay_Dallben [23/330] has challenged Ascarion [181/309] in combat and lost! 0 days, 02:06:13 is added to Kay_Dallben's clock.
+[12/05/15 10:01:29] Addison went to finish their jedi training! This lucky event has accelerated them 0 days, 01:28:14 towards level 36.
+[12/05/15 10:58:32] Rick_Olie [79/182] has come upon Raven_Ark [203/235] and was defeated in combat! 0 days, 00:11:55 is added to Rick_Olie's clock.
+[12/05/15 13:06:34] Chloe [194/424] has challenged Ascarion [155/309] in combat and won! 0 days, 02:47:19 is removed from Chloe's clock.
+[12/05/15 13:31:23] Aria_T`Dashi [305/405] has challenged Dunta_Star [226/229] in combat and won! 0 days, 02:26:24 is removed from Aria_T`Dashi's clock.
+[12/05/15 13:42:42] Vip_Fortuna [65/306] has challenged Aria_T`Dashi [188/405] in combat and lost! 0 days, 01:33:48 is added to Vip_Fortuna's clock.
+[12/05/15 14:19:28] Xu [95/247] has challenged Dunta_Star [126/229] in combat and lost! 0 days, 00:44:39 is added to Xu's clock.
+[12/05/15 15:07:40] Raven_Ark [205/271] has challenged Kay_Dallben [300/330] in combat and lost! 0 days, 01:33:48 is added to Raven_Ark's clock.
+[12/05/15 15:50:48] Dunta_Star [233/248] has challenged Rick_Olie [140/200] in combat and won! 0 days, 00:44:39 is removed from Dunta_Star's clock.
+[12/05/15 17:25:23] Lan [123/173] has challenged Ascarion [51/309] in combat and won! 0 days, 00:37:55 is removed from Lan's clock.
+[12/05/15 17:25:23] Lan has dealt Ascarion a Critical Strike! 0 days, 01:08:28 is added to Ascarion's clock.
+[12/05/15 18:11:31] Rick_Olie's Coruscant landing permit was extended!
+[12/05/15 18:22:15] Darth_Sigyn [123/419] has challenged Draelor [120/383] in combat and won! 0 days, 02:47:19 is removed from Darth_Sigyn's clock.
+[12/05/15 18:26:36] Sparky [212/324] has challenged Dunta_Star [65/248] in combat and won! 0 days, 00:44:39 is removed from Sparky's clock.
+[12/05/15 19:53:14] Rick_Olie [69/207] has challenged Mabbs [101/383] in combat and lost! 0 days, 00:28:36 is added to Rick_Olie's clock.
+[12/05/15 19:56:05] Draelor [293/394] has challenged Syrialus_Dantere [196/377] in combat and won! 0 days, 02:24:15 is removed from Draelor's clock.
+[12/05/15 19:58:50] Kyle [93/420] has challenged Ascarion [12/309] in combat and won! 0 days, 01:47:12 is removed from Kyle's clock.
+[12/05/15 20:16:04] Sparky and Aria_T`Dashi have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 5% of the time to their next level.
+[12/05/15 22:56:36] Mabbs [422/427] has challenged Selatos [211/336] in combat and won! 0 days, 01:43:57 is removed from Mabbs's clock.
+[12/06/15 00:34:15] Ascarion [80/334] has challenged Aria_T`Dashi [79/405] in combat and won! 0 days, 02:19:53 is removed from Ascarion's clock.
+[12/06/15 01:32:55] Selatos got their clothes dry-cleaned! That sand really gets everywhere.
+[12/06/15 01:42:08] Xu [195/276] has challenged Aria_T`Dashi [327/405] in combat and lost! 0 days, 00:51:48 is added to Xu's clock.
+[12/06/15 01:44:11] Dunta_Star [63/248] has challenged Xu [94/276] in combat and lost! 0 days, 00:51:48 is added to Dunta_Star's clock.
+[12/06/15 03:10:34] Rick_Olie [175/207] has challenged Aria_T`Dashi [254/405] in combat and lost! 0 days, 00:33:11 is added to Rick_Olie's clock.
+[12/06/15 03:54:00] Tine [150/308] has challenged Sparky [234/324] in combat and lost! 0 days, 02:26:24 is added to Tine's clock.
+[12/06/15 03:55:46] Sparky [182/324] has challenged Tine [119/308] in combat and won! 0 days, 01:06:36 is removed from Sparky's clock.
+[12/06/15 06:43:30] Aria_T`Dashi [346/405] has come upon Selatos [221/338] and taken them in combat! 0 days, 01:15:15 is removed from Aria_T`Dashi's clock.
+[12/06/15 08:32:38] Saedrial [18/291] has challenged Sparky [308/324] in combat and lost! 0 days, 01:00:05 is added to Saedrial's clock.
+[12/06/15 09:03:52] Addison [193/317] has challenged Kay_Dallben [246/330] in combat and lost! 0 days, 02:26:24 is added to Addison's clock.
+[12/06/15 10:07:54] Selatos [76/338] has challenged Sparky [115/324] in combat and lost! 0 days, 02:49:50 is added to Selatos's clock.
+[12/06/15 11:37:55] Rick_Olie [115/222] has challenged Ascarion [85/334] in combat and won! 0 days, 00:44:00 is removed from Rick_Olie's clock.
+[12/06/15 11:43:02] Ascarion found the Dark side had its light bulb removed! This lucky event has accelerated them 0 days, 01:07:07 towards level 35.
+[12/06/15 12:10:05] Sparky got their midi-chlorians measured! This lucky event has accelerated them 0 days, 00:10:45 towards level 30.
+[12/06/15 12:26:25] Syrialus_Dantere [59/377] has challenged Rick_Olie [22/222] in combat and won! 0 days, 02:26:24 is removed from Syrialus_Dantere's clock.
+[12/06/15 13:45:47] Syrialus_Dantere [104/377] has come upon Saedrial [107/291] and was defeated in combat! 0 days, 02:10:36 is added to Syrialus_Dantere's clock.
+[12/06/15 14:54:02] Xu [115/288] has challenged Vip_Fortuna [202/306] in combat and lost! 0 days, 01:00:05 is added to Xu's clock.
+[12/06/15 14:56:06] Dunta_Star [225/248] has challenged Saedrial [47/291] in combat and won! 0 days, 01:00:05 is removed from Dunta_Star's clock.
+[12/06/15 15:04:43] Rick_Olie was struck by lightning. This terrible calamity has slowed them 0 days, 00:29:55 from level 28.
+[12/06/15 16:31:41] Kyle [390/420] has challenged Darth_Sigyn [165/419] in combat and won! 0 days, 02:19:53 is removed from Kyle's clock.
+[12/06/15 17:28:15] Chloe invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 00:13:21 towards level 37.
+[12/06/15 17:28:21] Kay_Dallben [313/330] has challenged Selatos [203/338] in combat and won! 0 days, 03:08:14 is removed from Kay_Dallben's clock.
+[12/06/15 20:20:49] Aria_T`Dashi [170/412] has challenged Kyle [209/420] in combat and lost! 0 days, 02:49:50 is added to Aria_T`Dashi's clock.
+[12/06/15 20:25:35] Sparky [214/324] has challenged Saedrial [98/291] in combat and won! 0 days, 01:00:05 is removed from Sparky's clock.
+[12/06/15 20:57:33] Chloe [189/424] has challenged Saedrial [128/291] in combat and won! 0 days, 02:49:50 is removed from Chloe's clock.
+[12/06/15 21:08:07] Lan [125/210] has challenged Tine [99/308] in combat and won! 0 days, 00:49:30 is removed from Lan's clock.
+[12/06/15 22:07:05] Vip_Fortuna [149/311] has challenged Sparky [216/324] in combat and lost! 0 days, 01:48:48 is added to Vip_Fortuna's clock.
+[12/06/15 22:10:54] Aria_T`Dashi [198/412] has come upon Sparky [145/324] and taken them in combat! 0 days, 02:54:01 is removed from Aria_T`Dashi's clock.
+[12/06/15 22:39:31] Syrialus_Dantere [71/377] has come upon Ascarion [120/334] and was defeated in combat! 0 days, 01:42:23 is added to Syrialus_Dantere's clock.
+[12/06/15 23:01:42] Ascarion [62/334] has challenged Dunta_Star [135/248] in combat and lost! 0 days, 02:06:13 is added to Ascarion's clock.
+[12/06/15 23:34:58] Draelor [291/405] has challenged Sparky [189/324] in combat and won! 0 days, 02:26:24 is removed from Draelor's clock.
+[12/07/15 00:08:51] The fabric of the world shudders as the Force grows in Chloe, bringing them 0 days, 03:26:31 closer to level 38.
+[12/07/15 01:26:45] Kay_Dallben tried to improve their rancor-tipping skills. This terrible calamity has slowed them 0 days, 02:08:15 from level 37.
+[12/07/15 02:04:23] The fabric of the world shudders as the Force grows in Dunta_Star, bringing them 0 days, 01:05:05 closer to level 31.
+[12/07/15 03:09:25] Dunta_Star [10/261] has challenged Kay_Dallben [185/330] in combat and lost! 0 days, 01:09:42 is added to Dunta_Star's clock.
+[12/07/15 03:19:14] Lan [204/210] has come upon Ascarion [136/334] and taken them in combat! 0 days, 00:10:21 is removed from Lan's clock.
+[12/07/15 06:12:38] Xu [116/292] has challenged Tine [98/308] in combat and won! 0 days, 01:29:37 is removed from Xu's clock.
+[12/07/15 06:20:54] Lan [258/263] has challenged Ascarion [71/334] in combat and won! 0 days, 00:51:02 is removed from Lan's clock.
+[12/07/15 06:20:54] Lan has dealt Ascarion a Critical Strike! 0 days, 05:42:44 is added to Ascarion's clock.
+[12/07/15 06:23:55] Syrialus_Dantere [129/377] has come upon Kyle [288/420] and was defeated in combat! 0 days, 01:17:03 is added to Syrialus_Dantere's clock.
+[12/07/15 07:26:28] Saedrial [114/301] has challenged Chloe [13/424] in combat and won! 0 days, 01:29:37 is removed from Saedrial's clock.
+[12/07/15 07:26:28] Saedrial has dealt Chloe a Critical Strike! 0 days, 05:12:38 is added to Chloe's clock.
+[12/07/15 08:31:21] Tine [228/308] has come upon Chloe [361/424] and was defeated in combat! 0 days, 00:36:27 is added to Tine's clock.
+[12/07/15 11:41:30] Dunta_Star was paid to be cloned for an army! This lucky event has accelerated them 0 days, 00:44:16 towards level 32.
+[12/07/15 14:20:00] Sparky [318/336] has challenged Saedrial [144/301] in combat and won! 0 days, 01:09:42 is removed from Sparky's clock.
+[12/07/15 15:10:54] Saedrial found those were not the droids they were looking for. This terrible calamity has slowed them 0 days, 00:26:30 from level 32.
+[12/07/15 16:06:15] Kyle [64/420] has challenged Syrialus_Dantere [224/377] in combat and lost! 0 days, 02:06:13 is added to Kyle's clock.
+[12/07/15 16:09:40] Raven_Ark [59/271] has come upon Syrialus_Dantere [316/377] and was defeated in combat! 0 days, 00:03:36 is added to Raven_Ark's clock.
+[12/07/15 17:04:44] Raven_Ark [43/271] has challenged Draelor [71/405] in combat and lost! 0 days, 01:48:48 is added to Raven_Ark's clock.
+[12/07/15 17:08:30] Vip_Fortuna and Selatos have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 8% of the time to their next level.
+[12/07/15 17:30:41] Mabbs [261/427] has challenged Xu [168/292] in combat and won! 0 days, 01:33:48 is removed from Mabbs's clock.
+[12/07/15 17:48:29] Tine [36/336] has challenged Ascarion [22/334] in combat and won! 0 days, 03:14:06 is removed from Tine's clock.
+[12/07/15 17:53:32] Mabbs's weapon was recalibrated by a gungan technician!
+[12/07/15 19:44:15] Mabbs got a Geonosian weaponmaker to fix their blaster! This lucky event has accelerated them 0 days, 01:06:45 towards level 34.
+[12/07/15 19:46:18] Rick_Olie [61/225] has challenged Draelor [381/405] in combat and lost! 0 days, 00:44:39 is added to Rick_Olie's clock.
+[12/07/15 20:10:42] Dunta_Star [144/291] has challenged Mabbs [251/435] in combat and lost! 0 days, 01:20:51 is added to Dunta_Star's clock.
+[12/07/15 21:18:54] Xu [238/333] has challenged Syrialus_Dantere [117/377] in combat and won! 0 days, 01:43:57 is removed from Xu's clock.
+[12/07/15 22:18:08] Chloe got smacked by a wookie. This terrible calamity has slowed them 0 days, 01:41:02 from level 38.
+[12/07/15 23:17:51] Addison [156/317] has challenged Syrialus_Dantere [64/377] in combat and won! 0 days, 03:38:22 is removed from Addison's clock.
+[12/08/15 00:45:04] Tine was healed by the Force! This lucky event has accelerated them 0 days, 03:19:43 towards level 38.
+[12/08/15 00:56:15] Mabbs got vibroknifed in a dark alley. This terrible calamity has slowed them 0 days, 00:36:41 from level 34.
+[12/08/15 01:01:46] Lan bribed the local Imperial administrator! This lucky event has accelerated them 0 days, 00:00:12 towards level 29.
+[12/08/15 01:05:50] Lan [243/263] has challenged Draelor [359/405] in combat and lost! 0 days, 00:51:48 is added to Lan's clock.
+[12/08/15 02:01:41] Syrialus_Dantere [29/391] has challenged Lan [63/263] in combat and lost! 0 days, 02:49:50 is added to Syrialus_Dantere's clock.
+[12/08/15 02:07:44] Rick_Olie fell down a gravity well. This terrible calamity has slowed them 0 days, 00:36:09 from level 29.
+[12/08/15 04:11:07] Chloe tamed a wild dewback! This lucky event has accelerated them 0 days, 00:41:18 towards level 38.
+[12/08/15 04:25:11] Selatos [39/338] has challenged IdleRPG [440/467] in combat and lost! 0 days, 04:41:27 is added to Selatos's clock.
+[12/08/15 04:27:42] Lan [29/263] has come upon Ascarion [45/334] and was defeated in combat! 0 days, 00:41:18 is added to Lan's clock.
+[12/08/15 07:06:51] Selatos was paid to be cloned for an army! This lucky event has accelerated them 0 days, 05:22:46 towards level 39.
+[12/08/15 07:10:19] Sparky [92/344] has challenged Chloe [408/424] in combat and lost! 0 days, 01:20:51 is added to Sparky's clock.
+[12/08/15 07:45:08] Rick_Olie [124/237] has challenged Draelor [200/405] in combat and lost! 0 days, 00:51:48 is added to Rick_Olie's clock.
+[12/08/15 08:00:12] Draelor [356/405] has challenged Addison [79/317] in combat and won! 0 days, 03:38:22 is removed from Draelor's clock.
+[12/08/15 10:17:26] Chloe learned Shyriiwook! This lucky event has accelerated them 0 days, 00:16:25 towards level 38.
+[12/08/15 12:53:49] Ascarion [74/342] has challenged Draelor [262/405] in combat and lost! 0 days, 02:26:24 is added to Ascarion's clock.
+[12/08/15 13:03:29] Chloe [368/444] has challenged Addison [313/317] in combat and won! 0 days, 04:13:18 is removed from Chloe's clock.
+[12/08/15 14:08:07] The struggle between the Light and the Dark is too much for Xu! They break down in agony for 0 days, 00:30:42 losing sense of time.
+[12/08/15 15:20:51] Xu [257/337] has challenged Kyle [71/420] in combat and won! 0 days, 01:47:12 is removed from Xu's clock.
+[12/08/15 17:48:48] Vip_Fortuna [109/311] has challenged Rick_Olie [120/237] in combat and lost! 0 days, 02:06:13 is added to Vip_Fortuna's clock.
+[12/08/15 18:12:48] Dunta_Star [11/295] has challenged Rick_Olie [95/237] in combat and lost! 0 days, 01:33:48 is added to Dunta_Star's clock.
+[12/08/15 18:19:16] Rick_Olie found a one-time-use blaster! This lucky event has accelerated them 0 days, 00:09:28 towards level 30.
+[12/08/15 18:51:29] Tine was told they were our only hope. Oh my! This lucky event has accelerated them 0 days, 00:52:57 towards level 38.
+[12/08/15 19:30:22] Lan bought a two-handed hydrospanner! This lucky event has accelerated them 0 days, 00:25:30 towards level 30.
+[12/08/15 19:52:15] Lan stopped having a bad feeling about this! This lucky event has accelerated them 0 days, 00:38:02 towards level 30.
+[12/08/15 20:47:34] Rick_Olie [56/242] has challenged Draelor [387/405] in combat and lost! 0 days, 01:00:05 is added to Rick_Olie's clock.
+[12/08/15 21:25:57] Flint_Talzo [95/403] has challenged Selatos [278/338] in combat and lost! 0 days, 02:26:24 is added to Flint_Talzo's clock.
+[12/08/15 21:29:51] The fabric of the world shudders as the Force grows in Rick_Olie, bringing them 0 days, 04:57:57 closer to level 31.
+[12/08/15 23:41:37] Lan tamed a wild dewback! This lucky event has accelerated them 0 days, 00:02:58 towards level 30.
+[12/09/15 00:15:36] Kyle [392/420] has challenged Syrialus_Dantere [214/391] in combat and won! 0 days, 03:08:14 is removed from Kyle's clock.
+[12/09/15 00:20:34] Flint_Talzo got a meeting with an imperial interrogation droid. This terrible calamity has slowed them 0 days, 02:03:48 from level 37.
+[12/09/15 00:27:04] Nuroudo [0/1] has challenged Selatos [109/338] in combat and lost! 0 days, 00:00:48 is added to Nuroudo's clock.
+[12/09/15 00:28:10] Lan [117/271] has challenged Addison [255/317] in combat and lost! 0 days, 01:00:05 is added to Lan's clock.
+[12/09/15 00:52:58] Nuroudo [4/8] has challenged Tine [19/336] in combat and lost! 0 days, 00:01:05 is added to Nuroudo's clock.
+[12/09/15 01:27:47] Nuroudo [18/19] has challenged Selatos [138/338] in combat and lost! 0 days, 00:01:28 is added to Nuroudo's clock.
+[12/09/15 02:48:03] Tine [18/357] has challenged Selatos [335/338] in combat and lost! 0 days, 03:17:00 is added to Tine's clock.
+[12/09/15 02:52:10] Sigmund [75/372] has challenged Ascarion [327/342] in combat and lost! 0 days, 01:33:48 is added to Sigmund's clock.
+[12/09/15 03:46:23] Sparky [357/361] has challenged Xu [264/337] in combat and won! 0 days, 01:47:12 is removed from Sparky's clock.
+[12/09/15 03:53:45] Nuroudo [0/68] has challenged Aria_T`Dashi [162/412] in combat and lost! 0 days, 00:03:05 is added to Nuroudo's clock.
+[12/09/15 06:04:16] Mabbs [85/435] has challenged Xu [87/337] in combat and lost! 0 days, 01:48:48 is added to Mabbs's clock.
+[12/09/15 07:08:13] Rick_Olie [191/242] has challenged Syrialus_Dantere [245/391] in combat and lost! 0 days, 01:09:42 is added to Rick_Olie's clock.
+[12/09/15 07:23:33] Saedrial was paid to be cloned for an army! This lucky event has accelerated them 0 days, 00:10:53 towards level 32.
+[12/09/15 07:31:19] Mabbs got their midi-chlorians measured! This lucky event has accelerated them 0 days, 01:18:48 towards level 35.
+[12/09/15 07:53:10] Syrialus_Dantere was paid to be cloned for an army! This lucky event has accelerated them 0 days, 01:20:28 towards level 38.
+[12/09/15 09:13:55] Dunta_Star's fission generator was optimized for high energy output!
+[12/09/15 09:25:21] Nuroudo [3/114] has come upon Dunta_Star [277/298] and was defeated in combat! 0 days, 00:04:57 is added to Nuroudo's clock.
+[12/09/15 09:48:18] Saedrial [115/305] has challenged Xu [99/337] in combat and won! 0 days, 01:32:24 is removed from Saedrial's clock.
+[12/09/15 11:49:35] Lan got their midi-chlorians measured! This lucky event has accelerated them 0 days, 00:21:20 towards level 31.
+[12/09/15 12:11:17] Xu [133/337] has challenged Lan [52/271] in combat and won! 0 days, 01:48:48 is removed from Xu's clock.
+[12/09/15 12:28:28] Nuroudo [62/137] has challenged Sparky [172/361] in combat and lost! 0 days, 00:08:43 is added to Nuroudo's clock.
+[12/09/15 13:09:32] Addison [240/342] has challenged Selatos [127/338] in combat and won! 0 days, 04:13:18 is removed from Addison's clock.
+[12/09/15 13:16:03] Chloe, Flint_Talzo, and Draelor [734/1252] have team battled Aria_T`Dashi, Nuroudo, and Rick_Olie [389/791] and won! 0 days, 01:30:25 is removed from their clocks.
+[12/09/15 13:18:10] Tine [218/357] has come upon Vip_Fortuna [248/311] and was defeated in combat! 0 days, 02:46:42 is added to Tine's clock.
+[12/09/15 14:07:38] Aria_T`Dashi [205/412] has challenged Xu [104/337] in combat and won! 0 days, 03:45:09 is removed from Aria_T`Dashi's clock.
+[12/09/15 14:28:19] Vip_Fortuna was attacked by a rabid tauntaun. This terrible calamity has slowed them 0 days, 01:38:36 from level 36.
+[12/09/15 15:25:26] Lan [98/271] has challenged Raven_Ark [134/271] in combat and lost! 0 days, 01:09:42 is added to Lan's clock.
+[12/09/15 16:17:36] Kyle invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 01:34:08 towards level 37.
+[12/09/15 18:06:39] Dunta_Star [217/302] has challenged IdleRPG [113/467] in combat and won! 0 days, 05:10:53 is removed from Dunta_Star's clock.
+[12/09/15 19:17:45] Draelor [150/405] has challenged Xu [300/337] in combat and lost! 0 days, 03:17:00 is added to Draelor's clock.
+[12/10/15 00:19:13] Sparky [340/361] has challenged Tine [80/357] in combat and won! 0 days, 02:19:53 is removed from Sparky's clock.
+[12/10/15 00:53:48] Rick_Olie [46/242] has challenged Nuroudo [178/181] in combat and lost! 0 days, 01:20:51 is added to Rick_Olie's clock.
+[12/10/15 00:59:42] Rick_Olie got a Geonosian weaponmaker to fix their blaster! This lucky event has accelerated them 0 days, 02:27:37 towards level 33.
+[12/10/15 01:06:49] Ascarion learned a better way to eat a pear! This lucky event has accelerated them 0 days, 00:03:54 towards level 37.
+[12/10/15 01:20:06] Sparky was paid to be cloned for an army! This lucky event has accelerated them 0 days, 01:48:17 towards level 35.
+[12/10/15 02:06:27] Tine got their gambling debt cleared! This lucky event has accelerated them 0 days, 01:46:47 towards level 39.
+[12/10/15 02:07:57] Ascarion [249/349] has challenged Dunta_Star [78/302] in combat and won! 0 days, 03:14:06 is removed from Ascarion's clock.
+[12/10/15 02:38:22] Selatos [308/343] has challenged Mabbs [174/435] in combat and won! 0 days, 04:21:11 is removed from Selatos's clock.
+[12/10/15 03:22:00] The fabric of the world shudders as the Force grows in Nuroudo, bringing them 0 days, 01:08:08 closer to level 23.
+[12/10/15 06:24:52] Kyle [269/420] has challenged Flint_Talzo [245/403] in combat and won! 0 days, 03:38:22 is removed from Kyle's clock.
+[12/10/15 07:26:57] Chloe [274/465] has challenged Mabbs [314/435] in combat and lost! 0 days, 03:48:32 is added to Chloe's clock.
+[12/10/15 07:54:01] Draelor had a reactor leak. This terrible calamity has slowed them 0 days, 02:46:43 from level 39.
+[12/10/15 10:01:40] Raven_Ark [146/271] has challenged Chloe [412/465] in combat and lost! 0 days, 02:06:13 is added to Raven_Ark's clock.
+[12/10/15 11:22:46] Nuroudo [35/207] has challenged IdleRPG [454/467] in combat and lost! 0 days, 00:35:14 is added to Nuroudo's clock.
+[12/10/15 12:16:55] Xu [65/337] has challenged IdleRPG [91/467] in combat and lost! 0 days, 03:00:18 is added to Xu's clock.
+[12/10/15 13:29:42] Sparky got their midi-chlorians measured! This lucky event has accelerated them 0 days, 01:20:55 towards level 35.
+[12/10/15 15:57:35] Syrialus_Dantere [245/391] has challenged Tine [36/357] in combat and won! 0 days, 04:13:18 is removed from Syrialus_Dantere's clock.
+[12/10/15 16:22:05] Lan [133/282] has challenged Vip_Fortuna [6/311] in combat and won! 0 days, 01:32:24 is removed from Lan's clock.
+[12/10/15 17:01:08] Dunta_Star [14/339] has challenged IdleRPG [133/467] in combat and lost! 0 days, 03:00:18 is added to Dunta_Star's clock.
+[12/10/15 17:05:23] Sparky was bitten by a poisonous centipede. This terrible calamity has slowed them 0 days, 00:26:03 from level 35.
+[12/10/15 17:50:08] Vip_Fortuna, Tine, and Mabbs [163/1103] have team battled Sparky, Selatos, and Flint_Talzo [197/1107] and lost! 0 days, 00:02:05 is added to their clocks.
+[12/10/15 17:50:23] Nuroudo [139/207] has challenged Syrialus_Dantere [317/391] in combat and lost! 0 days, 00:28:36 is added to Nuroudo's clock.
+[12/10/15 18:02:39] Mabbs [435/448] has challenged Sparky [265/361] in combat and won! 0 days, 02:24:15 is removed from Mabbs's clock.
+[12/10/15 19:02:14] Rick_Olie [194/261] has challenged Chloe [91/465] in combat and won! 0 days, 02:00:36 is removed from Rick_Olie's clock.
+[12/10/15 19:11:42] Flint_Talzo's shield battery was gnawed on by gizka!
+[12/10/15 19:58:57] Vip_Fortuna [226/338] has challenged Tine [37/357] in combat and won! 0 days, 03:08:14 is removed from Vip_Fortuna's clock.
+[12/10/15 20:40:34] Nuroudo got a meeting with an imperial interrogation droid. This terrible calamity has slowed them 0 days, 00:29:23 from level 26.
+[12/11/15 00:51:56] Ascarion purchased some prime Tatooine real estate! This lucky event has accelerated them 0 days, 01:00:46 towards level 38.
+[12/11/15 01:37:08] Nuroudo [215/222] has challenged Sparky [283/361] in combat and lost! 0 days, 00:33:11 is added to Nuroudo's clock.
+[12/11/15 02:02:34] Aria_T`Dashi [238/412] has come upon Mabbs [18/448] and taken them in combat! 0 days, 01:04:15 is removed from Aria_T`Dashi's clock.
+[12/11/15 03:35:15] Syrialus_Dantere learned a better way to eat a pear! This lucky event has accelerated them 0 days, 04:06:23 towards level 39.
+[12/11/15 03:37:28] Sparky [204/361] has challenged Tine [315/357] in combat and lost! 0 days, 02:06:13 is added to Sparky's clock.
+[12/11/15 03:42:16] Tine learned a better way to eat a pear! This lucky event has accelerated them 0 days, 00:15:19 towards level 39.
+[12/11/15 04:10:50] Flint_Talzo [351/421] has challenged Syrialus_Dantere [384/391] in combat and lost! 0 days, 02:49:50 is added to Flint_Talzo's clock.
+[12/11/15 05:46:14] Tine [334/366] has challenged Rick_Olie [114/261] in combat and won! 0 days, 04:21:11 is removed from Tine's clock.
+[12/11/15 06:07:13] Sparky was attacked by a rabid tauntaun. This terrible calamity has slowed them 0 days, 01:46:46 from level 36.
+[12/11/15 06:17:09] Mabbs got a meeting with an imperial interrogation droid. This terrible calamity has slowed them 0 days, 01:13:57 from level 36.
+[12/11/15 07:19:40] Flint_Talzo [5/421] has come upon Ascarion [179/349] and was defeated in combat! 0 days, 02:48:30 is added to Flint_Talzo's clock.
+[12/11/15 07:20:37] Flint_Talzo [216/421] has come upon Ascarion [49/349] and taken them in combat! 0 days, 03:51:44 is removed from Flint_Talzo's clock.
+[12/11/15 08:18:49] Xu [196/337] has come upon Selatos [164/343] and taken them in combat! 0 days, 01:10:20 is removed from Xu's clock.
+[12/11/15 08:18:49] Xu has dealt Selatos a Critical Strike! 0 days, 02:51:15 is added to Selatos's clock.
+[12/11/15 10:04:29] Nuroudo [154/254] has challenged Sparky [291/361] in combat and lost! 0 days, 00:38:30 is added to Nuroudo's clock.
+[12/11/15 13:08:09] Flint_Talzo [21/421] has come upon Draelor [35/405] and was defeated in combat! 0 days, 02:19:41 is added to Flint_Talzo's clock.
+[12/11/15 13:08:54] Selatos stopped having a bad feeling about this! This lucky event has accelerated them 0 days, 00:55:13 towards level 40.
+[12/11/15 14:19:25] Ascarion [77/367] has challenged Mabbs [145/448] in combat and lost! 0 days, 03:17:00 is added to Ascarion's clock.
+[12/11/15 14:21:31] Aria_T`Dashi [316/412] has challenged Mabbs [7/448] in combat and won! 0 days, 04:21:11 is removed from Aria_T`Dashi's clock.
+[12/11/15 14:21:31] Aria_T`Dashi has dealt Mabbs a Critical Strike! 0 days, 01:58:12 is added to Mabbs's clock.
+[12/11/15 15:21:39] Rick_Olie [141/268] has challenged Syrialus_Dantere [271/391] in combat and lost! 0 days, 01:48:48 is added to Rick_Olie's clock.
+[12/11/15 19:52:59] Nuroudo [193/254] has challenged Sparky [18/361] in combat and won! 0 days, 00:51:02 is removed from Nuroudo's clock.
+[12/11/15 19:52:59] In the fierce battle, Sparky lost his level 41 portable fission generator! Nuroudo takes it, leaving his old level 28 portable fission generator to Sparky.
+[12/11/15 20:10:01] Xu [250/337] has challenged Dunta_Star [117/339] in combat and won! 0 days, 02:47:19 is removed from Xu's clock.
+[12/11/15 20:51:11] Draelor discovered caffeinated gizka! This lucky event has accelerated them 0 days, 00:33:08 towards level 39.
+[12/12/15 00:33:53] Mabbs installed a couple of secret compartments on their ship. Someone call a scanning crew!
+[12/12/15 00:53:41] Mabbs [371/467] has challenged Flint_Talzo [26/421] in combat and won! 0 days, 03:08:14 is removed from Mabbs's clock.
+[12/12/15 01:49:26] Draelor [31/405] has challenged IdleRPG [354/467] in combat and lost! 0 days, 05:26:29 is added to Draelor's clock.
+[12/12/15 02:15:08] Sparky found a rare pazaak card on the flea market!
+[12/12/15 03:23:07] Dunta_Star [153/339] has challenged Aria_T`Dashi [129/412] in combat and won! 0 days, 03:08:14 is removed from Dunta_Star's clock.
+[12/12/15 04:12:33] Nuroudo invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 00:08:44 towards level 29.
+[12/12/15 05:31:13] Nuroudo [39/289] has challenged Selatos [227/343] in combat and lost! 0 days, 00:51:48 is added to Nuroudo's clock.
+[12/12/15 05:39:37] The fabric of the world shudders as the Force grows in Ascarion, bringing them 0 days, 12:53:47 closer to level 39.
+[12/12/15 06:28:35] Selatos started hearing loud breathing sounds behind their back. This terrible calamity has slowed them 0 days, 00:00:28 from level 40.
+[12/12/15 06:38:32] Selatos [253/374] has challenged Xu [179/337] in combat and won! 0 days, 05:40:50 is removed from Selatos's clock.
+[12/12/15 07:51:08] Raven_Ark [134/271] has come upon Selatos [348/374] and was defeated in combat! 0 days, 01:00:37 is added to Raven_Ark's clock.
+[12/12/15 11:00:39] Syrialus_Dantere [296/422] has challenged Draelor [96/405] in combat and won! 0 days, 04:53:50 is removed from Syrialus_Dantere's clock.
+[12/12/15 12:00:01] Raven_Ark got their protocol droid decapitated, temporarily... This terrible calamity has slowed them 0 days, 00:58:09 from level 36.
+[12/12/15 12:01:37] The fabric of the world shudders as the Force grows in Tine, bringing them 0 days, 08:19:17 closer to level 40.
+[12/12/15 13:20:00] Rick_Olie [8/268] has come upon Selatos [194/374] and was defeated in combat! 0 days, 00:24:08 is added to Rick_Olie's clock.
+[12/12/15 13:33:37] Sparky [95/409] has challenged Tine [63/366] in combat and won! 0 days, 03:08:14 is removed from Sparky's clock.
+[12/12/15 14:43:22] Saedrial [198/329] has challenged Aria_T`Dashi [198/412] in combat and won! 0 days, 02:00:36 is removed from Saedrial's clock.
+[12/12/15 16:22:05] Kez [2/4] has challenged Chloe [457/465] in combat and lost! 0 days, 00:00:56 is added to Kez's clock.
+[12/12/15 16:52:06] Kez [11/12] has challenged Ascarion [170/448] in combat and lost! 0 days, 00:01:16 is added to Kez's clock.
+[12/12/15 17:12:42] Draelor bought a two-handed hydrospanner! This lucky event has accelerated them 0 days, 05:02:36 towards level 40.
+[12/12/15 17:24:55] Raven_Ark started hearing loud breathing sounds behind their back. This terrible calamity has slowed them 0 days, 00:50:37 from level 36.
+[12/12/15 17:40:21] Chloe [332/465] has challenged Addison [154/342] in combat and won! 0 days, 05:40:50 is removed from Chloe's clock.
+[12/12/15 18:21:03] The fabric of the world shudders as the Force grows in Mabbs, bringing them 0 days, 05:16:45 closer to level 37.
+[12/12/15 18:43:08] Nuroudo [123/328] has challenged Ascarion [303/448] in combat and lost! 0 days, 01:00:05 is added to Nuroudo's clock.
+[12/12/15 19:05:11] Lan [33/292] has challenged Syrialus_Dantere [165/422] in combat and lost! 0 days, 01:33:48 is added to Lan's clock.
+[12/12/15 19:29:01] Rick_Olie [25/279] has challenged Draelor [13/405] in combat and won! 0 days, 02:42:16 is removed from Rick_Olie's clock.
+[12/12/15 20:00:29] Kez misplaced their datapad. This terrible calamity has slowed them 0 days, 00:03:26 from level 10.
+[12/12/15 21:02:17] Addison invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 01:18:51 towards level 39.
+[12/12/15 23:29:53] Raven_Ark [169/271] has come upon Selatos [87/374] and taken them in combat! 0 days, 00:14:34 is removed from Raven_Ark's clock.
+[12/12/15 23:41:04] The fabric of the world shudders as the Force grows in Xu, bringing them 0 days, 01:08:19 closer to level 37.
+[12/13/15 00:11:37] Selatos got their protocol droid decapitated, temporarily... This terrible calamity has slowed them 0 days, 03:35:24 from level 41.
+[12/13/15 00:21:51] Xu used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:09:51 towards level 37.
+[12/13/15 01:01:01] Selatos has fallen down a garbage chute. This terrible calamity has slowed them 0 days, 02:33:33 from level 41.
+[12/13/15 01:41:06] Raven_Ark [226/289] has challenged Addison [283/342] in combat and lost! 0 days, 02:26:24 is added to Raven_Ark's clock.
+[12/13/15 02:56:10] Xu [89/337] has challenged Rick_Olie [243/279] in combat and lost! 0 days, 02:49:50 is added to Xu's clock.
+[12/13/15 03:20:22] Mabbs [384/467] has challenged Selatos [224/374] in combat and won! 0 days, 04:02:37 is removed from Mabbs's clock.
+[12/13/15 04:00:30] Chloe misjudged a swing and dented their melee weapon on a rock!
+[12/13/15 04:03:12] Aria_T`Dashi and Flint_Talzo have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 5% of the time to their next level.
+[12/13/15 04:05:31] Kez [20/82] has challenged Mabbs [173/467] in combat and lost! 0 days, 00:05:35 is added to Kez's clock.
+[12/13/15 04:47:30] Flint_Talzo was healed by the Force! This lucky event has accelerated them 0 days, 00:19:53 towards level 38.
+[12/13/15 06:04:42] Flint_Talzo used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:21:02 towards level 38.
+[12/13/15 07:04:10] Rick_Olie [236/279] has come upon Kez [92/98] and taken them in combat! 0 days, 01:06:12 is removed from Rick_Olie's clock.
+[12/13/15 07:08:59] Kyle [48/420] has challenged Aria_T`Dashi [127/412] in combat and lost! 0 days, 03:17:00 is added to Kyle's clock.
+[12/13/15 07:40:19] Addison [47/354] has challenged Chloe [352/458] in combat and lost! 0 days, 03:48:32 is added to Addison's clock.
+[12/13/15 10:01:44] Nuroudo [141/348] has challenged Dunta_Star [111/339] in combat and won! 0 days, 01:29:37 is removed from Nuroudo's clock.
+[12/13/15 10:38:37] Vip_Fortuna floated away with the garbage! This lucky event has accelerated them 0 days, 00:17:00 towards level 37.
+[12/13/15 10:44:16] Flint_Talzo [317/421] has challenged Chloe [63/458] in combat and won! 0 days, 04:41:27 is removed from Flint_Talzo's clock.
+[12/13/15 11:41:35] Ascarion [91/463] has challenged Flint_Talzo [110/421] in combat and lost! 0 days, 03:48:32 is added to Ascarion's clock.
+[12/13/15 13:54:16] Vip_Fortuna [320/342] has challenged Addison [348/354] in combat and lost! 0 days, 02:49:50 is added to Vip_Fortuna's clock.
+[12/13/15 15:48:05] Aria_T`Dashi [294/433] has challenged Xu [62/337] in combat and won! 0 days, 05:40:50 is removed from Aria_T`Dashi's clock.
+[12/13/15 15:55:06] Rick_Olie, Flint_Talzo, and Selatos [811/1074] have team battled Kyle, Raven_Ark, and Addison [288/1063] and won! 0 days, 01:09:43 is removed from their clocks.
+[12/13/15 17:01:14] Kez [95/101] has challenged Draelor [196/405] in combat and lost! 0 days, 00:10:07 is added to Kez's clock.
+[12/13/15 17:14:52] Addison is forsaken by the Dark side. 0 days, 00:29:11 is added to their clock.
+[12/13/15 17:31:14] Saedrial [122/329] has challenged Aria_T`Dashi [32/433] in combat and won! 0 days, 02:35:26 is removed from Saedrial's clock.
+[12/13/15 17:31:14] Saedrial has dealt Aria_T`Dashi a Critical Strike! 0 days, 06:07:45 is added to Aria_T`Dashi's clock.
+[12/13/15 17:47:44] Sparky and Vip_Fortuna have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 12% of the time to their next level.
+[12/13/15 18:59:44] Dunta_Star [309/365] has challenged Saedrial [306/329] in combat and won! 0 days, 03:14:06 is removed from Dunta_Star's clock.
+[12/13/15 19:07:38] Aria_T`Dashi was caught unprepared by a wampa. This terrible calamity has slowed them 0 days, 06:37:36 from level 41.
+[12/13/15 19:36:00] Kez [26/109] has challenged Saedrial [204/329] in combat and lost! 0 days, 00:11:44 is added to Kez's clock.
+[12/13/15 19:44:28] Addison learned Shyriiwook! This lucky event has accelerated them 0 days, 05:35:48 towards level 40.
+[12/13/15 20:33:58] Rick_Olie [260/293] has challenged Sparky [276/409] in combat and lost! 0 days, 02:26:24 is added to Rick_Olie's clock.
+[12/13/15 21:58:00] Petermind [0/0] has challenged Selatos [151/374] in combat and lost! 0 days, 00:00:48 is added to Petermind's clock.
+[12/13/15 22:27:07] The fabric of the world shudders as the Force grows in Draelor, bringing them 0 days, 00:34:41 closer to level 40.
+[12/13/15 22:40:17] Kez [53/114] has challenged Nuroudo [177/348] in combat and lost! 0 days, 00:13:37 is added to Kez's clock.
+[12/13/15 22:44:36] Sparky [372/425] has challenged Syrialus_Dantere [322/422] in combat and won! 0 days, 03:38:22 is removed from Sparky's clock.
+[12/13/15 23:08:07] Nuroudo [234/348] has come upon Aria_T`Dashi [41/433] and taken them in combat! 0 days, 00:11:59 is removed from Nuroudo's clock.
+[12/13/15 23:23:13] Aves [0/0] has challenged Selatos [341/374] in combat and lost! 0 days, 00:00:48 is added to Aves's clock.
+[12/13/15 23:24:43] Smurf [1/3] has challenged Ascarion [10/463] in combat and lost! 0 days, 00:00:56 is added to Smurf's clock.
+[12/14/15 00:43:50] Aves [13/24] has challenged Ascarion [215/463] in combat and lost! 0 days, 00:01:42 is added to Aves's clock.
+[12/14/15 00:47:44] Lan invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 00:46:46 towards level 34.
+[12/14/15 00:56:01] Nuroudo [140/376] has challenged Draelor [354/405] in combat and lost! 0 days, 01:20:51 is added to Nuroudo's clock.
+[12/14/15 01:59:15] Smurf [17/39] has challenged Nuroudo [262/376] in combat and lost! 0 days, 00:02:39 is added to Smurf's clock.
+[12/14/15 03:02:54] Xu hired a durosian second pilot! This lucky event has accelerated them 0 days, 02:06:26 towards level 38.
+[12/14/15 04:14:30] Lan went to finish their jedi training! This lucky event has accelerated them 0 days, 00:33:10 towards level 34.
+[12/14/15 05:34:46] Addison used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 01:33:37 towards level 40.
+[12/14/15 06:28:05] Smurf [59/66] has challenged Nuroudo [68/376] in combat and lost! 0 days, 00:05:35 is added to Smurf's clock.
+[12/14/15 09:26:18] Draelor [206/423] has challenged Nuroudo [22/376] in combat and won! 0 days, 05:02:58 is removed from Draelor's clock.
+[12/14/15 10:02:56] Sparky found the Dark side had its light bulb removed! This lucky event has accelerated them 0 days, 02:02:22 towards level 38.
+[12/14/15 12:14:25] Flint_Talzo got their clothes dry-cleaned! That sand really gets everywhere.
+[12/14/15 14:10:03] Aria_T`Dashi was force-choked by a tall man in black. This terrible calamity has slowed them 0 days, 02:52:11 from level 41.
+[12/14/15 15:43:04] Smurf [48/106] has challenged Selatos [79/374] in combat and lost! 0 days, 00:11:44 is added to Smurf's clock.
+[12/14/15 16:12:55] Syrialus_Dantere [141/422] has challenged Selatos [239/374] in combat and lost! 0 days, 04:25:06 is added to Syrialus_Dantere's clock.
+[12/14/15 17:00:59] Raven_Ark [245/289] has come upon Saedrial [264/329] and was defeated in combat! 0 days, 00:33:25 is added to Raven_Ark's clock.
+[12/14/15 17:19:38] Addison discovered caffeinated gizka! This lucky event has accelerated them 0 days, 01:47:23 towards level 40.
+[12/14/15 18:42:35] Smurf [83/119] has challenged Addison [164/354] in combat and lost! 0 days, 00:13:37 is added to Smurf's clock.
+[12/14/15 19:20:31] Draelor was force-choked by a tall man in black. This terrible calamity has slowed them 0 days, 02:24:30 from level 41.
+[12/14/15 20:05:23] Lan [100/292] has challenged Chloe [228/458] in combat and lost! 0 days, 01:48:48 is added to Lan's clock.
+[12/14/15 20:05:53] Xu [198/347] has challenged Syrialus_Dantere [7/422] in combat and won! 0 days, 04:41:27 is removed from Xu's clock.
+[12/14/15 21:04:10] Selatos [31/376] has challenged Dunta_Star [94/365] in combat and lost! 0 days, 05:07:31 is added to Selatos's clock.
+[12/14/15 21:32:04] Nuroudo [373/376] has challenged Addison [78/354] in combat and won! 0 days, 02:00:36 is removed from Nuroudo's clock.
+[12/14/15 21:57:18] Nuroudo [242/376] has come upon Ascarion [279/463] and was defeated in combat! 0 days, 01:23:35 is added to Nuroudo's clock.
+[12/14/15 22:35:14] Xu was shot at by sand people and their speeder was damaged!
+[12/14/15 22:35:35] Nuroudo [83/376] has come upon Ascarion [106/463] and was defeated in combat! 0 days, 01:26:46 is added to Nuroudo's clock.
+[12/15/15 01:19:30] Tracyn [31/69] has challenged Aria_T`Dashi [24/433] in combat and won! 0 days, 00:06:53 is removed from Tracyn's clock.
+[12/15/15 02:27:41] Raven_Ark [87/305] has challenged Ascarion [194/463] in combat and lost! 0 days, 02:49:50 is added to Raven_Ark's clock.
+[12/15/15 03:04:46] Kez [14/124] has challenged Xu [163/340] in combat and lost! 0 days, 00:18:19 is added to Kez's clock.
+[12/15/15 03:06:43] Chloe [2/458] has challenged Tracyn [39/72] in combat and lost! 0 days, 05:07:31 is added to Chloe's clock.
+[12/15/15 03:40:00] Ascarion floated away with the garbage! This lucky event has accelerated them 0 days, 01:05:42 towards level 40.
+[12/15/15 04:37:31] Dunta_Star found a crystal-covered cave! This lucky event has accelerated them 0 days, 00:28:43 towards level 38.
+[12/15/15 06:35:26] Selatos, Aria_T`Dashi, Chloe, and Draelor have completed their journey! 25% of their burden is eliminated.
+[12/15/15 07:32:25] Ascarion and Flint_Talzo have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 11% of the time to their next level.
+[12/15/15 09:26:06] Addison [262/354] has challenged Xu [74/340] in combat and won! 0 days, 05:40:50 is removed from Addison's clock.
+[12/15/15 09:52:00] Rick_Olie [69/297] has challenged Dunta_Star [184/365] in combat and lost! 0 days, 02:49:50 is added to Rick_Olie's clock.
+[12/15/15 10:11:29] Dunta_Star [119/365] has challenged Sparky [73/425] in combat and won! 0 days, 04:13:18 is removed from Dunta_Star's clock.
+[12/15/15 12:45:10] Sparky [229/445] has challenged IdleRPG [285/471] in combat and lost! 0 days, 04:41:27 is added to Sparky's clock.
+[12/15/15 14:45:42] Addison was force-choked by a tall man in black. This terrible calamity has slowed them 0 days, 04:41:24 from level 41.
+[12/15/15 16:47:30] Smurf bought a bacta ryfill. This terrible calamity has slowed them 0 days, 00:14:18 from level 25.
+[12/15/15 19:01:59] The fabric of the world shudders as the Force grows in Rick_Olie, bringing them 0 days, 20:48:10 closer to level 38.
+[12/15/15 19:21:37] Ascarion [416/475] has challenged Selatos [197/376] in combat and won! 0 days, 06:18:43 is removed from Ascarion's clock.
+[12/15/15 20:26:15] Smurf [158/189] has challenged Aria_T`Dashi [94/433] in combat and won! 0 days, 00:40:52 is removed from Smurf's clock.
+[12/15/15 20:31:33] CMDR_Reckless [0/1] has challenged IdleRPG [300/471] in combat and lost! 0 days, 00:01:09 is added to CMDR_Reckless's clock.
+[12/15/15 20:41:50] Nuroudo [260/387] has challenged Draelor [296/423] in combat and lost! 0 days, 01:48:48 is added to Nuroudo's clock.
+[12/15/15 21:25:17] Ascarion and Mabbs have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 6% of the time to their next level.
+[12/15/15 21:52:32] CMDR_Reckless [28/29] has challenged Aria_T`Dashi [231/433] in combat and lost! 0 days, 00:01:42 is added to CMDR_Reckless's clock.
+[12/15/15 22:29:21] Flint_Talzo [349/426] has challenged Nuroudo [168/387] in combat and won! 0 days, 04:21:11 is removed from Flint_Talzo's clock.
+[12/15/15 22:46:51] CMDR_Reckless [24/37] has challenged Chloe [229/458] in combat and lost! 0 days, 00:02:17 is added to CMDR_Reckless's clock.
+[12/15/15 23:21:55] CMDR_Reckless [26/48] has challenged Smurf [71/189] in combat and lost! 0 days, 00:02:39 is added to CMDR_Reckless's clock.
+[12/15/15 23:36:45] The fabric of the world shudders as the Force grows in Addison, bringing them 0 days, 10:32:58 closer to level 41.
+[12/16/15 00:39:11] Tracyn [47/90] has challenged Addison [5/354] in combat and won! 0 days, 00:09:15 is removed from Tracyn's clock.
+[12/16/15 01:37:54] CMDR_Reckless [2/70] has challenged Lan [52/292] in combat and lost! 0 days, 00:04:09 is added to CMDR_Reckless's clock.
+[12/16/15 01:39:03] Kyle [130/457] has challenged Aria_T`Dashi [134/433] in combat and lost! 0 days, 03:48:32 is added to Kyle's clock.
+[12/16/15 01:52:19] Selatos, Chloe, Draelor, and Addison have strenghtened the Force by completing their quest! 25% of their burden is eliminated.
+[12/16/15 02:34:09] Smurf [132/189] has challenged Mabbs [390/467] in combat and lost! 0 days, 00:33:11 is added to Smurf's clock.
+[12/16/15 03:49:16] Syrialus_Dantere discovered caffeinated gizka! This lucky event has accelerated them 0 days, 02:38:03 towards level 41.
+[12/16/15 05:12:13] Selatos invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 02:30:37 towards level 42.
+[12/16/15 06:15:12] Lan learned Shyriiwook! This lucky event has accelerated them 0 days, 00:44:46 towards level 35.
+[12/16/15 07:56:41] Raven_Ark was healed by the Force! This lucky event has accelerated them 0 days, 02:43:07 towards level 38.
+[12/16/15 08:17:50] Aria_T`Dashi [340/433] has challenged Raven_Ark [199/305] in combat and won! 0 days, 06:35:23 is removed from Aria_T`Dashi's clock.
+[12/16/15 08:19:59] Rick_Olie [119/298] has challenged Dunta_Star [12/365] in combat and won! 0 days, 04:13:18 is removed from Rick_Olie's clock.
+[12/16/15 08:32:58] CMDR_Reckless hired a durosian second pilot! This lucky event has accelerated them 0 days, 00:13:25 towards level 18.
+[12/16/15 09:30:17] The fabric of the world shudders as the Force grows in Mabbs, bringing them 0 days, 00:30:15 closer to level 38.
+[12/16/15 09:31:56] Draelor [392/423] has challenged Aria_T`Dashi [73/433] in combat and won! 0 days, 07:19:18 is removed from Draelor's clock.
+[12/16/15 09:55:02] Mabbs [78/467] has challenged Raven_Ark [16/305] in combat and won! 0 days, 04:13:18 is removed from Mabbs's clock.
+[12/16/15 11:01:30] Smurf [60/217] has challenged Draelor [55/423] in combat and won! 0 days, 00:55:00 is removed from Smurf's clock.
+[12/16/15 11:20:20] Addison's insolence and rebelliousness has brought the wrath of the Emperor upon the known worlds. The armies of the Empire block all transportation routes and impose a tax on every flying tin can out there. You are forced to go into hiding for a time until the offensive has ended.
+[12/16/15 12:13:23] Nordstroem [4/39] has challenged Mabbs [334/467] in combat and lost! 0 days, 00:02:17 is added to Nordstroem's clock.
+[12/16/15 13:42:22] Chloe [317/458] has come upon Ascarion [303/475] and taken them in combat! 0 days, 01:40:17 is removed from Chloe's clock.
+[12/16/15 14:10:35] Nordstroem [15/53] has challenged Syrialus_Dantere [192/422] in combat and lost! 0 days, 00:03:34 is added to Nordstroem's clock.
+[12/16/15 14:31:56] Addison [63/354] has come upon Ascarion [137/475] and was defeated in combat! 0 days, 01:07:26 is added to Addison's clock.
+[12/16/15 15:05:20] Nordstroem [34/53] has challenged Aria_T`Dashi [268/433] in combat and lost! 0 days, 00:04:09 is added to Nordstroem's clock.
+[12/16/15 15:44:17] Selatos got their midi-chlorians measured! This lucky event has accelerated them 0 days, 00:47:22 towards level 42.
+[12/16/15 15:47:18] Chloe was healed by the Force! This lucky event has accelerated them 0 days, 01:09:59 towards level 42.
+[12/16/15 16:08:51] Nordstroem [26/68] has challenged Ascarion [31/475] in combat and lost! 0 days, 00:04:49 is added to Nordstroem's clock.
+[12/16/15 17:05:33] Mabbs invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 02:53:21 towards level 39.
+[12/16/15 19:14:16] Ascarion and Sparky have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 12% of the time to their next level.
+[12/16/15 19:55:33] Kyle had a VERY short career as a swoop pilot. This terrible calamity has slowed them 0 days, 04:03:50 from level 40.
+[12/16/15 22:49:52] Smurf [140/253] has challenged Kyle [158/457] in combat and lost! 0 days, 00:44:39 is added to Smurf's clock.
+[12/16/15 23:43:17] Selatos [255/391] has challenged Flint_Talzo [313/426] in combat and lost! 0 days, 05:56:43 is added to Selatos's clock.
+[12/17/15 00:07:15] Nordstroem [108/127] has challenged Chloe [252/458] in combat and lost! 0 days, 00:10:07 is added to Nordstroem's clock.
+[12/17/15 00:46:35] Nuroudo [359/406] has challenged IdleRPG [269/471] in combat and won! 0 days, 06:00:37 is removed from Nuroudo's clock.
+[12/17/15 02:26:05] Draelor went to finish their jedi training! This lucky event has accelerated them 0 days, 04:59:21 towards level 42.
+[12/17/15 02:40:43] Lan [77/293] has challenged IdleRPG [364/471] in combat and lost! 0 days, 03:00:18 is added to Lan's clock.
+[12/17/15 03:34:56] Chloe [286/458] has challenged IdleRPG [348/471] in combat and lost! 0 days, 08:29:36 is added to Chloe's clock.
+[12/17/15 05:32:55] CMDR_Reckless [65/168] has challenged Mabbs [114/467] in combat and lost! 0 days, 00:18:19 is added to CMDR_Reckless's clock.
+[12/17/15 06:34:35] The fabric of the world shudders as the Force grows in Mabbs, bringing them 0 days, 09:28:38 closer to level 39.
+[12/17/15 07:42:50] Addison [86/388] has challenged Aria_T`Dashi [161/433] in combat and lost! 0 days, 05:07:31 is added to Addison's clock.
+[12/17/15 09:11:24] Vip_Fortuna [113/342] has challenged Flint_Talzo [155/426] in combat and lost! 0 days, 03:17:00 is added to Vip_Fortuna's clock.
+[12/17/15 10:04:12] Dunta_Star [26/365] has challenged Ascarion [32/475] in combat and lost! 0 days, 03:48:32 is added to Dunta_Star's clock.
+[12/17/15 11:26:55] Ascarion, Selatos, Aria_T`Dashi, and Chloe have strenghtened the Force by completing their quest! 25% of their burden is eliminated.
+[12/17/15 16:38:01] Kyle, Vip_Fortuna, and Nuroudo [295/1205] have team battled Addison, Nordstroem, and Draelor [315/988] and lost! 0 days, 01:38:13 is added to their clocks.
+[12/17/15 16:41:35] Syrialus_Dantere [1/422] has challenged Addison [1/388] in combat and won! 0 days, 07:19:18 is removed from Syrialus_Dantere's clock.
+[12/17/15 16:50:36] Mabbs [34/467] has challenged Draelor [206/423] in combat and lost! 0 days, 03:48:32 is added to Mabbs's clock.
+[12/17/15 18:23:28] Spree [0/1] has challenged Kyle [58/457] in combat and lost! 0 days, 00:00:48 is added to Spree's clock.
+[12/17/15 18:35:53] Spree [3/4] has challenged Syrialus_Dantere [68/422] in combat and lost! 0 days, 00:00:56 is added to Spree's clock.
+[12/17/15 19:05:53] Spree [7/14] has challenged Nordstroem [70/192] in combat and lost! 0 days, 00:01:16 is added to Spree's clock.
+[12/17/15 19:22:32] Ascarion [315/491] has challenged Mabbs [300/467] in combat and won! 0 days, 06:35:23 is removed from Ascarion's clock.
+[12/17/15 19:25:17] Spree [15/21] has challenged Ascarion [48/491] in combat and lost! 0 days, 00:01:28 is added to Spree's clock.
+[12/17/15 21:05:59] Saedrial [178/332] has challenged Ascarion [368/491] in combat and lost! 0 days, 02:06:13 is added to Saedrial's clock.
+[12/17/15 21:13:15] Spree [5/46] has challenged Aria_T`Dashi [261/433] in combat and lost! 0 days, 00:02:39 is added to Spree's clock.
+[12/17/15 21:20:48] Syrialus_Dantere's insolence and rebelliousness has brought the wrath of the Emperor upon the known worlds. The armies of the Empire block all transportation routes and impose a tax on every flying tin can out there. You are forced to go into hiding for a time until the offensive has ended.
+[12/17/15 21:54:45] Spree [3/47] has challenged Rick_Olie [124/298] in combat and lost! 0 days, 00:03:05 is added to Spree's clock.
+[12/17/15 21:58:45] Saedrial [138/332] has come upon CMDR_Reckless [135/168] and taken them in combat! 0 days, 02:13:04 is removed from Saedrial's clock.
+[12/17/15 22:23:52] Addison [11/388] has come upon Chloe [35/458] and was defeated in combat! 0 days, 04:31:08 is added to Addison's clock.
+[12/18/15 00:03:50] Kyle learned a better way to eat a pear! This lucky event has accelerated them 0 days, 01:08:00 towards level 40.
+[12/18/15 00:07:50] Chloe [109/458] has come upon Syrialus_Dantere [7/422] and taken them in combat! 0 days, 05:15:04 is removed from Chloe's clock.
+[12/18/15 02:51:51] Nuroudo [184/424] has challenged Kyle [41/457] in combat and won! 0 days, 03:08:14 is removed from Nuroudo's clock.
+[12/18/15 03:01:19] Spree [48/123] has challenged Sparky [166/445] in combat and lost! 0 days, 00:06:29 is added to Spree's clock.
+[12/18/15 03:37:43] Nuroudo [390/424] has come upon Kyle [269/457] and taken them in combat! 0 days, 02:47:10 is removed from Nuroudo's clock.
+[12/18/15 03:47:50] Ascarion and Mabbs have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 6% of the time to their next level.
+[12/18/15 03:53:15] Nordstroem [45/225] has challenged Kez [33/135] in combat and won! 0 days, 00:28:36 is removed from Nordstroem's clock.
+[12/18/15 04:13:51] Rick_Olie [91/298] has challenged Kez [6/135] in combat and won! 0 days, 03:48:32 is removed from Rick_Olie's clock.
+[12/18/15 04:25:35] Smurf [66/261] has challenged Kez [51/135] in combat and won! 0 days, 00:51:48 is removed from Smurf's clock.
+[12/18/15 04:40:27] Spree [9/140] has challenged Tracyn [108/109] in combat and lost! 0 days, 00:07:31 is added to Spree's clock.
+[12/18/15 04:46:58] Kez [88/136] has challenged Flint_Talzo [207/426] in combat and lost! 0 days, 00:24:39 is added to Kez's clock.
+[12/18/15 05:11:58] Flint_Talzo [20/426] has come upon Mabbs [416/467] and was defeated in combat! 0 days, 00:18:37 is added to Flint_Talzo's clock.
+[12/18/15 06:35:26] Spree [124/146] has challenged Flint_Talzo [83/426] in combat and won! 0 days, 00:11:13 is removed from Spree's clock.
+[12/18/15 06:59:59] Aria_T`Dashi's shield battery was gnawed on by gizka!
+[12/18/15 07:36:46] Nuroudo misjudged a swing and dented their melee weapon on a rock!
+[12/18/15 08:41:36] Kyle and Aria_T`Dashi have not let the pull of the Dark side sway their decision to fight for the Light. A fluctuation of the Force grants them 8% of the time to their next level.
+[12/18/15 09:17:25] CMDR_Reckless [139/191] has challenged Selatos [137/391] in combat and won! 0 days, 00:40:52 is removed from CMDR_Reckless's clock.
+[12/18/15 09:35:28] Selatos, Dunta_Star, and Syrialus_Dantere [1127/1178] have team battled Draelor, Kyle, and Ascarion [1011/1371] and won! 0 days, 07:38:56 is removed from their clocks.
+[12/18/15 09:44:38] Sparky [417/445] has challenged Smurf [82/261] in combat and won! 0 days, 03:48:32 is removed from Sparky's clock.
+[12/18/15 09:56:33] Flint_Talzo [313/467] has challenged Dunta_Star [239/365] in combat and won! 0 days, 05:40:50 is removed from Flint_Talzo's clock.
+[12/18/15 10:13:24] Nordstroem [164/234] has challenged IdleRPG [138/471] in combat and won! 0 days, 01:34:49 is removed from Nordstroem's clock.
+[12/18/15 13:41:19] Spree [88/159] has challenged Nuroudo [208/418] in combat and lost! 0 days, 00:13:37 is added to Spree's clock.
+[12/18/15 15:53:52] Smurf [132/276] has challenged Selatos [151/391] in combat and lost! 0 days, 01:00:05 is added to Smurf's clock.
+[12/18/15 17:05:28] Kyle [377/481] has challenged Ascarion [337/491] in combat and won! 0 days, 06:18:43 is removed from Kyle's clock.
+[12/18/15 18:07:36] Tracyn [28/110] has challenged Kez [107/136] in combat and lost! 0 days, 00:15:48 is added to Tracyn's clock.
+[12/18/15 18:10:10] Kyle discovered caffeinated gizka! This lucky event has accelerated them 0 days, 03:54:04 towards level 41.
+[12/18/15 18:59:26] Aria_T`Dashi [91/451] has challenged Ascarion [170/491] in combat and lost! 0 days, 05:56:43 is added to Aria_T`Dashi's clock.
+[12/18/15 19:28:46] Ascarion, Selatos, Aria_T`Dashi, and Draelor have completed their journey! 25% of their burden is eliminated.
+[12/18/15 20:48:11] Sarah [0/1] has challenged IdleRPG [4/471] in combat and lost! 0 days, 00:01:09 is added to Sarah's clock.
+[12/18/15 21:14:24] Sarah [4/5] has challenged Kay_Dallben [313/330] in combat and lost! 0 days, 00:01:05 is added to Sarah's clock.
+[12/18/15 21:31:46] Rick_Olie floated away with the garbage! This lucky event has accelerated them 0 days, 03:59:48 towards level 40.
+[12/18/15 21:49:15] Sarah [1/10] has challenged Vip_Fortuna [108/342] in combat and lost! 0 days, 00:01:28 is added to Sarah's clock.
+[12/18/15 22:36:06] Sarah [22/28] has challenged Addison [296/388] in combat and lost! 0 days, 00:01:58 is added to Sarah's clock.
+[12/18/15 22:42:10] Dunta_Star was attacked by a mynock. This terrible calamity has slowed them 0 days, 02:33:43 from level 40.
+[12/18/15 23:02:43] Draelor [19/423] has challenged Syrialus_Dantere [399/422] in combat and lost! 0 days, 05:56:43 is added to Draelor's clock.
+[12/18/15 23:21:45] Chloe went to finish their jedi training! This lucky event has accelerated them 0 days, 01:26:30 towards level 43.
+[12/18/15 23:26:03] CMDR_Reckless [152/216] has challenged Ascarion [70/491] in combat and won! 0 days, 00:47:24 is removed from CMDR_Reckless's clock.
+[12/19/15 00:21:53] Sarah [24/43] has challenged Addison [358/388] in combat and lost! 0 days, 00:03:05 is added to Sarah's clock.
+[12/19/15 01:21:28] Raven_Ark [173/325] has challenged Mabbs [265/467] in combat and lost! 0 days, 03:17:00 is added to Raven_Ark's clock.
+[12/19/15 02:00:17] Sarah [54/65] has challenged Rick_Olie [222/298] in combat and lost! 0 days, 00:04:09 is added to Sarah's clock.
+[12/19/15 02:43:31] Draelor got a Geonosian weaponmaker to fix their blaster! This lucky event has accelerated them 0 days, 07:50:52 towards level 43.
+[12/19/15 03:10:20] Dunta_Star [29/365] has come upon Syrialus_Dantere [17/422] and taken them in combat! 0 days, 01:56:39 is removed from Dunta_Star's clock.
+[12/19/15 06:52:36] Kez [123/185] has challenged Ascarion [365/491] in combat and lost! 0 days, 00:28:36 is added to Kez's clock.
+[12/19/15 06:53:30] CMDR_Reckless [232/233] has challenged Kez [18/185] in combat and won! 0 days, 00:38:30 is removed from CMDR_Reckless's clock.
+[12/19/15 07:06:26] Kyle was attacked by a rabid tauntaun. This terrible calamity has slowed them 0 days, 04:40:01 from level 41.
+[12/19/15 07:48:07] Nuroudo [392/418] has challenged Lan [118/293] in combat and won! 0 days, 03:14:06 is removed from Nuroudo's clock.
+[12/19/15 08:43:41] Aria_T`Dashi's insolence and rebelliousness has brought the wrath of the Emperor upon the known worlds. The armies of the Empire block all transportation routes and impose a tax on every flying tin can out there. You are forced to go into hiding for a time until the offensive has ended.
+[12/19/15 09:14:42] Addison [222/388] has come upon Ascarion [390/491] and was defeated in combat! 0 days, 02:27:31 is added to Addison's clock.
+[12/19/15 09:22:07] Sparky went to finish their jedi training! This lucky event has accelerated them 0 days, 02:30:11 towards level 40.
+[12/19/15 10:50:46] Draelor found a crystal-covered cave! This lucky event has accelerated them 0 days, 08:40:14 towards level 43.
+[12/19/15 11:36:13] Smurf [163/288] has challenged Ascarion [148/491] in combat and won! 0 days, 01:39:35 is removed from Smurf's clock.
+[12/19/15 12:01:58] Selatos [308/391] has challenged Syrialus_Dantere [205/422] in combat and won! 0 days, 09:51:08 is removed from Selatos's clock.
+[12/19/15 13:24:04] Sarah [12/114] has challenged CMDR_Reckless [129/233] in combat and lost! 0 days, 00:11:44 is added to Sarah's clock.
+[12/19/15 14:15:16] Lan [279/293] has come upon Sarah [33/114] and taken them in combat! 0 days, 00:56:11 is removed from Lan's clock.
+[12/19/15 15:15:33] Vip_Fortuna used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 02:32:23 towards level 39.
+[12/19/15 15:16:24] Syrialus_Dantere set their astromech on fire. This terrible calamity has slowed them 0 days, 02:39:38 from level 42.
+[12/19/15 16:10:21] Spree [12/236] has challenged Rick_Olie [255/298] in combat and lost! 0 days, 00:28:36 is added to Spree's clock.
+[12/19/15 16:23:35] Sarah [90/114] has challenged Raven_Ark [10/325] in combat and won! 0 days, 00:17:30 is removed from Sarah's clock.
+[12/19/15 18:15:38] Smurf [14/288] has come upon Dunta_Star [313/365] and was defeated in combat! 0 days, 00:34:46 is added to Smurf's clock.
+[12/19/15 18:46:06] CMDR_Reckless [143/266] has challenged Vip_Fortuna [20/342] in combat and won! 0 days, 00:57:25 is removed from CMDR_Reckless's clock.
+[12/19/15 19:36:35] Dunta_Star used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:29:25 towards level 40.
+[12/19/15 21:11:39] Lan had a VERY short career as a swoop pilot. This terrible calamity has slowed them 0 days, 00:36:36 from level 36.
+[12/19/15 21:46:22] Tracyn [41/164] has come upon Smurf [121/288] and was defeated in combat! 0 days, 00:11:08 is added to Tracyn's clock.
+[12/19/15 23:00:55] Chloe [53/466] has challenged Lan [220/293] in combat and lost! 0 days, 06:53:48 is added to Chloe's clock.
+[12/19/15 23:37:07] Dunta_Star [104/400] has challenged Nordstroem [172/234] in combat and lost! 0 days, 04:25:06 is added to Dunta_Star's clock.
+[12/20/15 00:18:13] Nordstroem floated away with the garbage! This lucky event has accelerated them 0 days, 00:03:52 towards level 27.
+[12/20/15 00:22:40] Dunta_Star, Kyle, and Sparky [1035/1326] have team battled Tracyn, Aria_T`Dashi, and Flint_Talzo [222/1082] and won! 0 days, 04:12:44 is removed from their clocks.
+[12/20/15 00:32:47] Draelor got a Geonosian weaponmaker to fix their blaster! This lucky event has accelerated them 0 days, 04:29:36 towards level 43.
+[12/20/15 00:36:42] Tracyn [34/231] has challenged Dunta_Star [149/400] in combat and lost! 0 days, 00:28:36 is added to Tracyn's clock.
+[12/20/15 01:02:40] Nordstroem [35/260] has challenged Syrialus_Dantere [141/422] in combat and lost! 0 days, 00:38:30 is added to Nordstroem's clock.
+[12/20/15 02:19:32] Ascarion [330/545] has challenged Raven_Ark [275/325] in combat and won! 0 days, 07:38:38 is removed from Ascarion's clock.
+[12/20/15 03:09:48] Smurf [188/324] has challenged Chloe [398/466] in combat and lost! 0 days, 01:20:51 is added to Smurf's clock.
+[12/20/15 03:20:58] Lan [223/293] has challenged IdleRPG [454/497] in combat and lost! 0 days, 03:29:09 is added to Lan's clock.
+[12/20/15 03:34:21] Rick_Olie [307/352] has challenged Syrialus_Dantere [407/422] in combat and lost! 0 days, 04:25:06 is added to Rick_Olie's clock.
+[12/20/15 04:52:57] Addison, Kez, and Smurf [527/897] have team battled Flint_Talzo, Syrialus_Dantere, and Kyle [323/1370] and won! 0 days, 00:32:57 is removed from their clocks.
+[12/20/15 05:39:09] Kyle learned Shyriiwook! This lucky event has accelerated them 0 days, 02:26:13 towards level 41.
+[12/20/15 06:28:03] The fabric of the world shudders as the Force grows in CMDR_Reckless, bringing them 0 days, 00:38:14 closer to level 29.
+[12/20/15 06:44:26] CMDR_Reckless [137/272] has challenged Flint_Talzo [315/467] in combat and lost! 0 days, 00:51:48 is added to CMDR_Reckless's clock.
+[12/20/15 07:04:46] Kez [54/216] has challenged Lan [183/293] in combat and lost! 0 days, 00:33:11 is added to Kez's clock.
+[12/20/15 10:24:57] Nuroudo installed a couple of secret compartments on their ship. Someone call a scanning crew!
+[12/20/15 10:51:10] Nordstroem [172/277] has challenged Draelor [132/423] in combat and won! 0 days, 01:03:48 is removed from Nordstroem's clock.
+[12/20/15 10:53:20] CMDR_Reckless was healed by the Force! This lucky event has accelerated them 0 days, 00:27:09 towards level 30.
+[12/20/15 12:56:07] Flint_Talzo started hearing loud breathing sounds behind their back. This terrible calamity has slowed them 0 days, 02:01:31 from level 41.
+[12/20/15 12:58:37] The fabric of the world shudders as the Force grows in Smurf, bringing them 0 days, 04:05:04 closer to level 33.
+[12/20/15 14:27:00] Sarah [141/171] has challenged Draelor [251/423] in combat and lost! 0 days, 00:28:36 is added to Sarah's clock.
+[12/20/15 15:37:24] CMDR_Reckless was mistaken for a droid by jawas. This terrible calamity has slowed them 0 days, 00:27:49 from level 30.
+[12/20/15 16:05:18] Tracyn [16/244] has challenged Nordstroem [192/277] in combat and lost! 0 days, 00:33:11 is added to Tracyn's clock.
+[12/20/15 16:10:30] Ascarion, Syrialus_Dantere, Selatos, and Aria_T`Dashi have strenghtened the Force by completing their quest! 25% of their burden is eliminated.
+[12/20/15 19:15:13] Nordstroem has fallen down a garbage chute. This terrible calamity has slowed them 0 days, 00:03:30 from level 29.
+[12/20/15 19:29:33] Smurf stole Sparky's level 67 corellian light freighter while they were sleeping! Smurf leaves his old level 23 corellian light freighter behind, which Sparky then takes.
+[12/20/15 19:57:00] CMDR_Reckless [52/338] has challenged Nuroudo [292/421] in combat and lost! 0 days, 01:00:05 is added to CMDR_Reckless's clock.
+[12/20/15 20:26:45] Xu was force-choked by a tall man in black. This terrible calamity has slowed them 0 days, 01:16:11 from level 39.
+[12/20/15 20:28:52] Nordstroem [180/283] has challenged Smurf [202/364] in combat and lost! 0 days, 00:51:48 is added to Nordstroem's clock.
+[12/20/15 21:44:22] Sarah [176/206] has challenged Addison [332/388] in combat and lost! 0 days, 00:33:11 is added to Sarah's clock.
+[12/20/15 22:17:56] The fabric of the world shudders as the Force grows in Vip_Fortuna, bringing them 0 days, 06:51:55 closer to level 39.
+[12/20/15 22:19:23] Addison [66/408] has challenged Ascarion [441/545] in combat and lost! 0 days, 05:56:43 is added to Addison's clock.
+[12/20/15 22:51:45] Nuroudo [404/426] has challenged Sparky [390/397] in combat and won! 0 days, 04:13:18 is removed from Nuroudo's clock.
+[12/20/15 23:54:17] Nordstroem learned a better way to eat a pear! This lucky event has accelerated them 0 days, 00:29:19 towards level 30.
+[12/21/15 00:32:37] Tracyn [26/244] has challenged Rick_Olie [150/352] in combat and lost! 0 days, 00:38:30 is added to Tracyn's clock.
+[12/21/15 00:50:27] Dunta_Star was caught unprepared by a wampa. This terrible calamity has slowed them 0 days, 05:26:33 from level 41.
+[12/21/15 01:48:58] Syrialus_Dantere [28/450] has challenged Aria_T`Dashi [147/451] in combat and lost! 0 days, 05:56:43 is added to Syrialus_Dantere's clock.
+[12/21/15 02:02:41] Smurf used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 00:05:10 towards level 33.
+[12/21/15 02:44:28] Smurf [314/364] has challenged Ascarion [496/545] in combat and lost! 0 days, 01:33:48 is added to Smurf's clock.
+[12/21/15 03:08:46] Addison got a meeting with an imperial interrogation droid. This terrible calamity has slowed them 0 days, 05:09:48 from level 43.
+[12/21/15 03:35:11] Kyle [479/481] has challenged Aria_T`Dashi [317/451] in combat and won! 0 days, 07:19:18 is removed from Kyle's clock.
+[12/21/15 04:11:52] Raven_Ark [91/325] has challenged Selatos [124/391] in combat and lost! 0 days, 03:48:32 is added to Raven_Ark's clock.
+[12/21/15 06:11:41] Sarah [122/208] has challenged Rick_Olie [219/352] in combat and lost! 0 days, 00:38:30 is added to Sarah's clock.
+[12/21/15 06:56:04] Vip_Fortuna [255/367] has challenged Chloe [147/466] in combat and won! 0 days, 05:26:29 is removed from Vip_Fortuna's clock.
+[12/21/15 09:11:26] Nordstroem [295/307] has challenged Draelor [152/423] in combat and won! 0 days, 01:25:50 is removed from Nordstroem's clock.
+[12/21/15 09:14:35] Sparky [30/420] has challenged Nordstroem [297/307] in combat and lost! 0 days, 04:25:06 is added to Sparky's clock.
+[12/21/15 11:15:35] CMDR_Reckless [291/366] has challenged Dunta_Star [301/400] in combat and lost! 0 days, 01:09:42 is added to CMDR_Reckless's clock.
+[12/21/15 11:26:43] Aria_T`Dashi [377/467] has challenged Syrialus_Dantere [368/450] in combat and won! 0 days, 09:51:08 is removed from Aria_T`Dashi's clock.
+[12/21/15 12:29:32] Addison [118/408] has come upon Nordstroem [113/307] and taken them in combat! 0 days, 05:43:52 is removed from Addison's clock.
+[12/21/15 13:35:14] Xu [120/349] has challenged Raven_Ark [185/325] in combat and lost! 0 days, 03:48:32 is added to Xu's clock.
+[12/21/15 15:32:48] Ascarion, Chloe, Draelor, and Rick_Olie have strenghtened the Force by completing their quest! 25% of their burden is eliminated.
+[12/21/15 16:00:12] Sarah [86/208] has challenged IdleRPG [37/497] in combat and won! 0 days, 02:07:36 is removed from Sarah's clock.
+[12/21/15 17:41:47] Lan [162/293] has challenged Kyle [277/481] in combat and lost! 0 days, 02:49:50 is added to Lan's clock.
+[12/21/15 18:15:15] The struggle between the Light and the Dark is too much for Chloe! They break down in agony for 0 days, 12:52:07 losing sense of time.
+[12/21/15 19:44:12] Selatos discovered caffeinated gizka! This lucky event has accelerated them 0 days, 01:25:45 towards level 44.
+[12/21/15 19:58:38] CMDR_Reckless was caught unprepared by a wampa. This terrible calamity has slowed them 0 days, 00:37:58 from level 32.
+[12/21/15 20:22:15] Draelor [21/423] has challenged Lan [288/293] in combat and lost! 0 days, 06:53:48 is added to Draelor's clock.
+[12/21/15 20:35:16] Lane [2/4] has challenged Nordstroem [96/307] in combat and lost! 0 days, 00:00:56 is added to Lane's clock.
+[12/21/15 21:45:14] Rick_Olie, Vip_Fortuna, and Sparky [152/1139] have team battled Kyle, Lan, and Xu [430/1123] and lost! 0 days, 03:29:35 is added to their clocks.
+[12/21/15 22:04:05] Nordstroem [139/347] has challenged Rick_Olie [337/352] in combat and lost! 0 days, 01:09:42 is added to Nordstroem's clock.
+[12/21/15 22:42:34] The fabric of the world shudders as the Force grows in Flint_Talzo, bringing them 0 days, 17:25:46 closer to level 41.
+[12/21/15 23:18:03] Tracyn [40/249] has challenged Addison [49/408] in combat and lost! 0 days, 00:44:39 is added to Tracyn's clock.
+[12/22/15 00:30:36] Sarah [153/241] has challenged Vip_Fortuna [136/367] in combat and won! 0 days, 01:06:36 is removed from Sarah's clock.
+[12/22/15 02:45:52] Kyle's insolence and rebelliousness has brought the wrath of the Emperor upon the known worlds. The armies of the Empire block all transportation routes and impose a tax on every flying tin can out there. You are forced to go into hiding for a time until the offensive has ended.
+[12/22/15 02:56:47] Dunta_Star used the Force. It was about time, too.! This lucky event has accelerated them 0 days, 02:04:22 towards level 41.
+[12/22/15 04:45:58] Tracyn is forsaken by the Dark side. 0 days, 00:18:13 is added to their clock.
+[12/22/15 05:29:20] Dunta_Star learned a better way to eat a pear! This lucky event has accelerated them 0 days, 03:35:32 towards level 41.
+[12/22/15 05:34:32] The fabric of the world shudders as the Force grows in Nordstroem, bringing them 0 days, 03:46:40 closer to level 32.
+[12/22/15 05:35:38] The fabric of the world shudders as the Force grows in Lan, bringing them 0 days, 04:08:50 closer to level 38.
+[12/22/15 05:53:38] CMDR_Reckless [326/378] has challenged Sarah [127/241] in combat and won! 0 days, 01:20:51 is removed from CMDR_Reckless's clock.
+[12/22/15 09:09:56] Kyle splurged on a new actuator for their speeder!
+[12/22/15 09:32:32] Rick_Olie [189/352] has come upon Ascarion [454/545] and was defeated in combat! 0 days, 00:41:49 is added to Rick_Olie's clock.
+[12/22/15 09:34:02] Flint_Talzo [162/509] has challenged Raven_Ark [206/325] in combat and lost! 0 days, 05:07:31 is added to Flint_Talzo's clock.
+[12/22/15 09:48:30] Draelor [345/423] has come upon Selatos [104/391] and taken them in combat! 0 days, 09:18:53 is removed from Draelor's clock.
+[12/22/15 10:43:34] Ascarion [263/545] has challenged Raven_Ark [180/325] in combat and won! 0 days, 08:52:01 is removed from Ascarion's clock.
+[12/22/15 11:01:06] Xu [45/349] has come upon Draelor [297/423] and was defeated in combat! 0 days, 02:42:50 is added to Xu's clock.
+[12/22/15 11:08:43] Tracyn [42/249] has challenged Ascarion [336/545] in combat and lost! 0 days, 00:51:48 is added to Tracyn's clock.
+[12/22/15 11:55:16] Sarah [205/293] has challenged Chloe [405/466] in combat and lost! 0 days, 01:00:05 is added to Sarah's clock.
+[12/22/15 12:17:30] Nordstroem [169/347] has challenged Vip_Fortuna [293/367] in combat and lost! 0 days, 01:20:51 is added to Nordstroem's clock.
+[12/22/15 13:20:27] Selatos [369/391] has challenged Raven_Ark [294/325] in combat and won! 0 days, 10:17:09 is removed from Selatos's clock.
+[12/22/15 14:17:26] Draelor got harassed by a bantha. This terrible calamity has slowed them 0 days, 03:58:03 from level 44.
+[12/22/15 15:24:41] Sparky was healed by the Force! This lucky event has accelerated them 0 days, 04:37:08 towards level 41.
+[12/22/15 16:44:12] The fabric of the world shudders as the Force grows in Xu, bringing them 0 days, 21:27:36 closer to level 40.
+[12/22/15 18:10:31] Chloe found a one-time-use blaster! This lucky event has accelerated them 0 days, 02:31:30 towards level 44.
+[12/22/15 18:15:26] Vip_Fortuna found a one-time-use blaster! This lucky event has accelerated them 0 days, 02:33:00 towards level 40.
+[12/22/15 18:24:42] Raven_Ark invented a weapon that could blow away planets. If only they were the first..! This lucky event has accelerated them 0 days, 02:16:37 towards level 40.
+[12/22/15 19:21:57] Nuroudo [3/426] has challenged Kyle [334/487] in combat and lost! 0 days, 03:48:32 is added to Nuroudo's clock.
+[12/22/15 20:11:48] Rick_Olie [145/352] has challenged Lan [68/293] in combat and won! 0 days, 06:35:23 is removed from Rick_Olie's clock.
+[12/22/15 20:23:32] Smurf [335/364] has challenged Sarah [56/293] in combat and won! 0 days, 01:48:48 is removed from Smurf's clock.
+[12/22/15 20:47:37] Smurf got their gambling debt cleared! This lucky event has accelerated them 0 days, 02:25:14 towards level 35.
+[12/22/15 21:20:33] Lan tried to improve their rancor-tipping skills. This terrible calamity has slowed them 0 days, 00:57:38 from level 38.
+[12/22/15 23:48:00] CMDR_Reckless [248/378] has challenged Sparky [391/420] in combat and lost! 0 days, 01:33:48 is added to CMDR_Reckless's clock.
+[12/23/15 00:20:37] Tracyn [215/249] has challenged Selatos [386/391] in combat and lost! 0 days, 01:00:05 is added to Tracyn's clock.
